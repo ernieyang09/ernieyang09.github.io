@@ -2,8 +2,9 @@ import React from "react"
 import PropTypes from "prop-types"
 import Helmet from "react-helmet"
 import { Header } from '../components/Header'
-import 'flexboxgrid';
+import { Aside } from '../components/Aside'
 
+import 'flexboxgrid';
 import "../css/normalize.css"
 import "../css/main.css"
 
@@ -30,7 +31,7 @@ export default class Template extends React.Component {
   }
 
   render() {
-    // console.log(this.props)
+
     return (
       <div>
         <Helmet
@@ -41,9 +42,10 @@ export default class Template extends React.Component {
           ]}
         />
         <Header path={this.props.location.pathname} />
-        <div>
+        {/* <div>
           {this.props.children()}
-        </div>
+        </div> */}
+        <Aside />
       </div>
     )
   }
