@@ -2,6 +2,7 @@ import React from "react"
 import PropTypes from "prop-types"
 import Helmet from "react-helmet"
 import { Header } from '../components/Header'
+import 'flexboxgrid';
 
 import "../css/normalize.css"
 import "../css/main.css"
@@ -29,24 +30,18 @@ export default class Template extends React.Component {
   }
 
   render() {
+    // console.log(this.props)
     return (
       <div>
         <Helmet
-          title="Gatsby Default Starter"
+          title="前端小誌"
           meta={[
-            { name: "description", content: "Sample" },
-            { name: "keywords", content: "sample, something" },
+            { name: "description", content: "ernieyang09的blog，用來記錄前端的學習歷程" },
+            { name: "keywords", content: "Frond-End,javascript" },
           ]}
         />
-        <Header />
-        <div
-          style={{
-            margin: `0 auto`,
-            maxWidth: 960,
-            padding: `0px 1.0875rem 1.45rem`,
-            paddingTop: 0,
-          }}
-        >
+        <Header path={this.props.location.pathname} />
+        <div>
           {this.props.children()}
         </div>
       </div>
