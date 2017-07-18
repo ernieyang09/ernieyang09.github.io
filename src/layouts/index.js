@@ -42,9 +42,9 @@ export default class Template extends React.Component {
           ]}
         />
         <Header path={this.props.location.pathname} />
-        {/* <div>
+        <div className="">
           {this.props.children()}
-        </div> */}
+        </div>
         <Aside />
       </div>
     )
