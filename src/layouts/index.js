@@ -1,12 +1,18 @@
 import React from "react"
 import PropTypes from "prop-types"
 import Helmet from "react-helmet"
+import styled from 'styled-components'
 import { Header } from '../components/Header'
 import { Aside } from '../components/Aside'
 
 import 'flexboxgrid';
 import "../css/normalize.css"
 import "../css/main.css"
+
+
+const Wrapper = styled.div`
+  margin:0 auto;
+`;
 
 export default class Template extends React.Component {
 
@@ -33,7 +39,7 @@ export default class Template extends React.Component {
   render() {
 
     return (
-      <div>
+      <Wrapper className='col-sm-11 col-lg-12'>
         <Helmet
           title="前端小誌"
           meta={[
@@ -42,11 +48,13 @@ export default class Template extends React.Component {
           ]}
         />
         <Header path={this.props.location.pathname} />
-        <div className="">
-          {this.props.children()}
+        <div style={{display:'flex'}}>
+          <div style={{flexGrow:1}}>
+            {this.props.children()}
+          </div>
+          <Aside />
         </div>
-        <Aside />
-      </div>
+      </Wrapper>
     )
   }
 }

@@ -3,12 +3,11 @@ import Link from "gatsby-link"
 import styled from 'styled-components'
 
 const Wrapper = styled.div`
-  text-align:center;
   margin-bottom: 1.5em;
+  
 `;
 
 const TitleLink = styled(Link)`
-  text-align: center;
   color: #555;
   text-decoration: none;
   font-weight: 900;

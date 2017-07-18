@@ -4,7 +4,6 @@ import styled from 'styled-components'
 import cx from 'classnames';
 
 const Wrapper = styled.nav`
-  margin:0 auto;
   text-align:center;
   border-bottom: 1px solid #ddd;
   box-sizing: border-box;
@@ -46,7 +45,7 @@ export default class Nav extends React.Component {
     })();
 
     return (
-      <Wrapper className='col-xs-12 col-sm-10'>
+      <Wrapper>
         <NavLink className={cx({active:page==='/'})} to='/'>首頁</NavLink>
         <NavLink className={cx({active:page==='/archives'})}  to='/archives'>文章</NavLink>
         <NavLink className={cx({active:page==='/about'})}  to='/about'>關於我</NavLink>
