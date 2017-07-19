@@ -8,7 +8,7 @@ import Nav from './Nav';
 export default class Header extends React.Component {
   render() {
     return (
-      <div>
+      <div style={{marginBottom:'2em'}}>
         <Title />
         <Nav page={this.props.path} />
       </div>

@@ -4,13 +4,28 @@ import Helmet from "react-helmet"
 
 export default class Index extends React.Component {
   render() {
+    console.log(this.props.data)
     return (
       <div>
-        <h1>Hi people</h1>
-        <p>Welcome to your new Gatsby site.</p>
-        <p>Now go build something great.</p>
-        <Link to="/page-2/">Go to page 2</Link>
+        test
       </div>
     )
   }
 }
+
+export const pageQuery = graphql`
+  query IndexQuery {
+    allMarkdownRemark {
+      edges {
+        node {
+          frontmatter {
+            path
+          }
+          frontmatter {
+            title
+          }
+        }
+      }
+    }
+  }
+`
