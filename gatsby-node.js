@@ -43,3 +43,21 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
     )
   })
 }
+
+exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
+  const { createNodeField } = boundActionCreators
+
+  return new Promise((resolve, reject) => {
+    let slug;
+    if (node.internal.type === `MarkdownRemark`) {
+      const fileNode = getNode(node.parent)
+      const parsedFilePath = path.parse(fileNode.relativePath)
+      slug = `/${parsedFilePath.dir.split("--")[1]}/`
+      createNodeField({ node, name: `slug`, value: slug })
+      // console.log(node)
+    }
+
+    resolve();
+  })
+
+}

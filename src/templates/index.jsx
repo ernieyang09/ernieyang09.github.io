@@ -9,7 +9,7 @@ import get from "lodash/get"
 
 class BlogPostTemplate extends React.Component {
   render() {
-
+    console.log(this)
     const post = this.props.data.markdownRemark
     const siteTitle = get(this.props, "data.site.siteMetadata.title")
 
