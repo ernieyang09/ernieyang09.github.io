@@ -19,9 +19,6 @@ export const pageQuery = graphql`
       edges {
         node {
           frontmatter {
-            path
-          }
-          frontmatter {
             title
           }
         }
