@@ -15,6 +15,7 @@ const Tag = styled.a`
   margin-right:10px;
   padding: 3px 6px;
   border-radius: 3px;
+  font-size: 12px;
   &::before {
     content:'#'
   }
