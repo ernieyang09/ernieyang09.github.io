@@ -11,12 +11,15 @@ import get from "lodash/get"
 const Tag = styled.a`
   text-decoration: none;
   color:#6E7173;
-  border:1px solid #444;
+  border:1px solid #ddd;
   margin-right:10px;
   padding: 3px 6px;
   border-radius: 3px;
-  &::before{
+  &::before {
     content:'#'
+  }
+  &:hover {
+    border-color: #444;
   }
 `;
 

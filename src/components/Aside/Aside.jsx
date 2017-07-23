@@ -4,7 +4,7 @@ import styled from 'styled-components'
 import Title from './Title';
 
 const Wrapper = styled.div`
-  min-width: 200px;
+  flex-basis: 215px;
   border-left: 1px solid #ddd;
   padding-left: 35px;
   color: #6E7173;

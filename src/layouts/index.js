@@ -6,6 +6,7 @@ import { Header } from '../components/Header'
 import { Aside } from '../components/Aside'
 
 import 'flexboxgrid';
+import "prismjs/themes/prism-okaidia.css"
 import "../css/normalize.css"
 import "../css/main.css"
 
@@ -49,7 +50,7 @@ export default class Template extends React.Component {
         />
         <Header path={this.props.location.pathname} />
         <div style={{display:'flex'}}>
-          <div style={{flexGrow:1}}>
+          <div style={{flex:1,minWidth:0}}>
             {this.props.children()}
           </div>
           <Aside />
