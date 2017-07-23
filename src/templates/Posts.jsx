@@ -1,11 +1,25 @@
 import React from "react"
 import Helmet from "react-helmet"
 import Link from "gatsby-link"
+import styled from 'styled-components'
 import get from "lodash/get"
 
 
 // import Bio from "../components/Bio"
 // import { rhythm, scale } from "../utils/typography"
+
+const Tag = styled.a`
+  text-decoration: none;
+  color:#6E7173;
+  border:1px solid #444;
+  margin-right:10px;
+  padding: 3px 6px;
+  border-radius: 3px;
+  &::before{
+    content:'#'
+  }
+`;
+
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -22,7 +36,17 @@ class BlogPostTemplate extends React.Component {
         <p>
           {post.frontmatter.date}
         </p>
-        <div dangerouslySetInnerHTML={{ __html: post.html }} />
+        <div style={{paddingBottom:"6px"}} dangerouslySetInnerHTML={{ __html: post.html }} />
+        <div className="tags-wrap">
+          {
+            post.frontmatter.tags.map( (tag,i) =>
+              <span className="tag" key={i}>
+                <Tag href="/">{tag}</Tag>
+              </span>
+            )
+          }
+        </div>
+
         <hr/>
         {/* <Bio /> */}
       </div>
