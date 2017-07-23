@@ -14,7 +14,7 @@ class BlogPostTemplate extends React.Component {
     const siteTitle = get(this.props, "data.site.siteMetadata.title")
 
     return (
-      <div>
+      <div style={{paddingRight:"35px"}}>
         <Helmet title={`${post.frontmatter.title} | ${siteTitle}`} />
         <h1>
           {post.frontmatter.title}
@@ -33,19 +33,20 @@ class BlogPostTemplate extends React.Component {
 export default BlogPostTemplate
 
 export const pageQuery = graphql`
-  query BlogPostByPath($path: String!) {
+  query BlogPostByPath($slug: String!) {
     site {
       siteMetadata {
         title
         author
       }
     }
-    markdownRemark(frontmatter: { path: { eq: $path } }) {
+    markdownRemark(fields: { slug: { eq: $slug } }) {
       id
       html
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
+        tags
       }
     }
   }
