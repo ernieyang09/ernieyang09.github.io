@@ -4,9 +4,12 @@ tags:
   - drupal
   - etherpad
 date: "2010-11-19T00:14:48.000Z"
-layout: post
 ---
 
+<snippet>
+
+測試一下
+125125125你好
 
 ````php
 <?php
@@ -40,3 +43,5 @@ function etherpad_widget(&$form, &$form_state, $field, $items, $delta = 0) {
 }
 ?>
 ````
+
+</snippet>

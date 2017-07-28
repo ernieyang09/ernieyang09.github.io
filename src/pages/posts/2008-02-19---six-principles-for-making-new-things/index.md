@@ -7,9 +7,13 @@ date: "2008-02-19T01:51:40.000Z"
 
 ---
 
+<snippet>
+
 I love it when someone writes what I'm thinking about writing. Saves me time.
 
 Paul Graham posted a new essay today entitled "[Six Principles for Making New Things][0]."
+
+</snippet>
 
 Here's the juicy bit:
 

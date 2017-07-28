@@ -39,7 +39,6 @@ export default class Template extends React.Component {
   }
 
   render() {
-
     return (
       <Wrapper className='col-sm-11 col-lg-12'>
         <Helmet
@@ -51,10 +50,8 @@ export default class Template extends React.Component {
         />
         <Header path={this.props.location.pathname} />
         <div style={{display:'flex'}}>
-          <div style={{flex:1,minWidth:0}}>
-            {this.props.children()}
-          </div>
-          <Aside />
+        {this.props.children()}
+        <Aside />
         </div>
         <Footer />
       </Wrapper>

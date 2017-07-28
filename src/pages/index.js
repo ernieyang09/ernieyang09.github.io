@@ -1,13 +1,16 @@
 import React from "react"
 import Link from "gatsby-link"
 import Helmet from "react-helmet"
+import { PostItem } from "../components/PostItem/"
 
 export default class Index extends React.Component {
   render() {
-    console.log(this.props.data)
+    const posts = this.props.data.allMarkdownRemark.edges;
     return (
-      <div>
-        test
+      <div style={{flex:1,minWidth:0,marginRight:'50px'}}>
+        {
+          posts.map( (post, index) => <PostItem key={index} {...post.node} /> )
+        }
       </div>
     )
   }
@@ -15,12 +18,18 @@ export default class Index extends React.Component {
 
 export const pageQuery = graphql`
   query IndexQuery {
-    allMarkdownRemark {
+    allMarkdownRemark(limit: 10) {
       edges {
         node {
-          frontmatter {
-            title
+          fields {
+            slug
           }
+  				frontmatter {
+  				  title
+  				  date
+            tags
+  				}
+          html
         }
       }
     }
