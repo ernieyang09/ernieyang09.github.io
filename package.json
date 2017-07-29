@@ -15,11 +15,13 @@
     "gatsby-source-filesystem": "^1.0.1",
     "gatsby-transformer-remark": "^1.1.0",
     "moment": "^2.18.1",
-    "styled-components": "^2.1.1"
+    "react-router-scroll": "github:ytase/react-router-scroll#build",
+    "styled-components": "^2.1.1",
+    "warning": "^3.0.0"
   },
   "devDependencies": {
     "gatsby-plugin-sass": "^1.0.1",
-    "gh-pages": "^0.12.0",
+    "gh-pages": "^1.0.0",
     "unist-util-select": "^1.5.0"
   },
   "keywords": [
@@ -29,7 +31,7 @@
   "main": "n/a",
   "scripts": {
     "build": "gatsby build",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
+    "deploy": "gh-pages -d public -b master",
     "develop": "gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"pages/*.js\" \"utils/*.js\" \"wrappers/*.js\" \"html.js\"",
     "test": "echo \"Error: no test specified\" && exit 1"
