@@ -3,10 +3,8 @@ import Helmet from "react-helmet"
 import Link from "gatsby-link"
 import styled from 'styled-components'
 import get from "lodash/get"
-
-
-// import Bio from "../components/Bio"
-// import { rhythm, scale } from "../utils/typography"
+import moment from 'moment'
+import './post.scss';
 
 const Tag = styled.a`
   text-decoration: none;
@@ -24,23 +22,33 @@ const Tag = styled.a`
   }
 `;
 
+const PostHeader = styled.h2`
+  margin: 0;
+  text-align: left;
+  font-size: 25px;
+  font-weight: bold;
+  color: #555;
+`;
+
+const Time = styled.div`
+    padding: 0;
+    margin: 15px 0 0;
+    color: #6E7173;
+    text-indent: .15em;
+`;
+
 
 class BlogPostTemplate extends React.Component {
   render() {
-    console.log(this)
     const post = this.props.data.markdownRemark
     const siteTitle = get(this.props, "data.site.siteMetadata.title")
 
     return (
-      <div style={{flex:1,minWidth:0,marginRight:'50px'}}>
+      <div className="Post">
         <Helmet title={`${post.frontmatter.title} | ${siteTitle}`} />
-        <h1>
-          {post.frontmatter.title}
-        </h1>
-        <p>
-          {post.frontmatter.date}
-        </p>
-        <div style={{paddingBottom:"6px"}} dangerouslySetInnerHTML={{ __html: post.html }} />
+        <PostHeader>{post.frontmatter.title}</PostHeader>
+        <Time>{moment(post.frontmatter.date).format("YYYY年MM月DD日").toString()}</Time>
+        <div className="post-item" dangerouslySetInnerHTML={{ __html: post.html }} />
         <div className="tags-wrap">
           {
             post.frontmatter.tags.map( (tag,i) =>
@@ -73,7 +81,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        date(formatString: "MMMM DD, YYYY")
+        date
         tags
       }
     }

@@ -34,7 +34,6 @@ const BtnLink = styled(Link)`
 
 const PostHeader = styled.h2`
   margin: 0;
-  color: #555;
   text-align: left;
   font-size: 25px;
   font-weight: bold;

@@ -1,0 +1,25 @@
+.Post {
+  flex:1;
+  min-Width:0;
+  margin-right: 50px;
+
+  h1 {
+    margin: 0;
+    color: #555;
+    text-align: left;
+    font-size: 25px;
+    font-weight: bold;
+  }
+
+  .post-item {
+    clear: left;
+    font-size: 15px;
+    line-height: 1.77;
+    color: #444;
+    padding-top: 15px;
+    text-align: justify;
+    text-justify: distribute;
+    word-break: normal;
+    padding-bottom: 6px;
+  }
+}
