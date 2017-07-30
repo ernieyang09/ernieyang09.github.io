@@ -4,7 +4,7 @@ import styled from 'styled-components'
 import moment from 'moment'
 
 const Post = styled.div`
-  padding-bottom: 40px;
+  padding-bottom: 60px;
 `;
 
 const PostSnippet = styled.div`
@@ -21,7 +21,7 @@ const PostSnippet = styled.div`
 const BtnLink = styled(Link)`
   font-size: 14px;
   color: #444;
-  margin-top: 10px;
+  margin-top: 20px;
   padding: 5px 10px;
   border: 1px solid #ddd;
   border-radius: 5px;
