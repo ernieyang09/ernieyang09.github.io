@@ -1,10 +1,19 @@
-# gatsby-starter-default
-The default Gatsby starter
+# ernieyang09.github.io
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-```
-gatsby new gatsby-example-site
-```
-## Deploy
+原本想要一個可以用來擺放平常閱讀技術文章後的心得的地方
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+結果用了React-based的Gatsbyjs作為Blog generator
+
+幾乎全部東西都需要自己刻
+
+TODO continues...
+
+## TODO List
+
+- GA & GTM
+- NavBar其他頁面
+- Aside Function
+- RWD
+- disqus
+- tags
+- 文章樣式
