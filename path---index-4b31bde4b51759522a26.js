@@ -1,2 +1,0 @@
-webpackJsonp([4],{"./node_modules/json-loader/index.js!./.cache/json/index.json":function(e,n){e.exports={data:{allMarkdownRemark:{edges:[{node:{fields:{slug:"/first-post/"},frontmatter:{title:"使用gatsby做自己的blog",date:"2017-07-26T22:06",tags:["blog"]},html:"<snippet>\n測試一下\n</snippet>\n<p>其實沒什麼要說的</p>\n<p>晚點再補</p>"}}]}},pathContext:{}}}});
-//# sourceMappingURL=path---index-4b31bde4b51759522a26.js.map
