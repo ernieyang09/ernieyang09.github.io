@@ -16,6 +16,18 @@ module.exports = {
       options: {
         plugins: [
           {
+            resolve: `gatsby-plugin-google-analytics`,
+            options: {
+              trackingId: 'UA-45974567-2',
+            },
+          },
+          {
+            resolve: `gatsby-plugin-google-tagmanager`,
+            options: {
+              id: 'GTM-KXT5BHM',
+            },
+          },
+          {
             resolve: `gatsby-remark-images`,
             options: {
               // It's important to specify the maxWidth (in pixels) of
