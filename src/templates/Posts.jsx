@@ -4,7 +4,7 @@ import Link from "gatsby-link"
 import styled from 'styled-components'
 import get from "lodash/get"
 import moment from 'moment'
-import ReactDisqusThread from 'react-disqus-thread';
+import ReactDisqusThread from 'react-disqus-comments';
 import './post.scss';
 
 const Tag = styled.a`
@@ -38,11 +38,27 @@ const Time = styled.div`
     text-indent: .15em;
 `;
 
+const CommentBtn = styled.div`
+  border:1px solid #ddd;
+  text-align: center;
+  color:#6E7173;
+  line-height: 42px;
+  box-sizing: border-box;
+  cursor: pointer;
+`;
+
+ const Hr = styled.hr`
+  margin: 24px 0;
+  height: 1px;
+  border: none;
+  background-color: #ddd;
+ `;
+
 
 class BlogPostTemplate extends React.Component {
 
-  handleNewComment = (comment) => {
-    console.log(comment.text);
+  state = {
+    isOpenComment: false,
   }
 
   render() {
@@ -65,15 +81,22 @@ class BlogPostTemplate extends React.Component {
           }
         </div>
 
-        <hr/>
-        {/* <Bio /> */}
-        <ReactDisqusThread
-            shortname="ernieyang09-github-io"
-            identifier="something-unique-12345"
-            title="Example Thread"
-            url="http://www.example.com/example-thread"
-            category_id="123456"
-            onNewComment={this.handleNewComment}/>
+        <Hr />
+        {
+          this.state.isOpenComment ?
+            <ReactDisqusThread
+                shortname="ernieyang09-github-io"
+                identifier={post.fields.slug}
+                title={post.frontmatter.title}
+                style={{minHeight:"45px"}}
+            />
+          :
+            <CommentBtn onClick={()=> this.setState({isOpenComment: true})}>
+              展開Disqus
+            </CommentBtn>
+
+        }
+
       </div>
     )
   }
@@ -92,6 +115,9 @@ export const pageQuery = graphql`
     markdownRemark(fields: { slug: { eq: $slug } }) {
       id
       html
+      fields {
+        slug
+      }
       frontmatter {
         title
         date

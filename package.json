@@ -17,7 +17,7 @@
     "gatsby-source-filesystem": "^1.0.1",
     "gatsby-transformer-remark": "^1.1.0",
     "moment": "^2.18.1",
-    "react-disqus-thread": "^0.4.0",
+    "react-disqus-comments": "git+https://github.com/theplatapi/react-disqus-thread.git",
     "react-router-scroll": "github:ytase/react-router-scroll#build",
     "styled-components": "^2.1.1",
     "warning": "^3.0.0"
