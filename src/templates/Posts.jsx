@@ -47,14 +47,6 @@ const CommentBtn = styled.div`
   cursor: pointer;
 `;
 
- const Hr = styled.hr`
-  margin: 24px 0;
-  height: 1px;
-  border: none;
-  background-color: #ddd;
- `;
-
-
 class BlogPostTemplate extends React.Component {
 
   state = {
@@ -81,7 +73,7 @@ class BlogPostTemplate extends React.Component {
           }
         </div>
 
-        <Hr />
+        <hr />
         {
           this.state.isOpenComment ?
             <ReactDisqusThread
