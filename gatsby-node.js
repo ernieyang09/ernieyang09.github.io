@@ -58,6 +58,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
           createPage({
             path: tagPath,
             component: tagPages,
+            // Query variable for template/tag-page
             context: {
               tag,
             },

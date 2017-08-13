@@ -53,10 +53,9 @@ const Time = styled.div`
 
 export default class PostItem extends React.Component {
   render() {
-        // <snippet>[^]*?<\/snippet>
     const props = this.props;
-    const snippet = props.html.match(/<snippet>[^]*?<\/snippet>/)[0];
-
+    const snippet = props.html.match(/<snippet>[^]*?<\/snippet>/);
+    
     return (
       <Post>
         <PostHeader><Link to={props.fields.slug}>{props.frontmatter.title}</Link></PostHeader>

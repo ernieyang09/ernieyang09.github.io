@@ -21,6 +21,7 @@ export const pageQuery = graphql`
     allMarkdownRemark(
       limit: 10
       sort: { fields: [frontmatter___date], order: DESC }
+      filter: {frontmatter: { release: {eq: true} } }
     ) {
       edges {
         node {
@@ -31,6 +32,7 @@ export const pageQuery = graphql`
   				  title
   				  date
             tags
+            release
   				}
           html
         }

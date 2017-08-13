@@ -4,6 +4,7 @@ import Link from "gatsby-link"
 import styled from 'styled-components'
 import get from "lodash/get"
 import moment from 'moment'
+import ReactDisqusThread from 'react-disqus-thread';
 import './post.scss';
 
 const Tag = styled.a`
@@ -39,6 +40,11 @@ const Time = styled.div`
 
 
 class BlogPostTemplate extends React.Component {
+
+  handleNewComment = (comment) => {
+    console.log(comment.text);
+  }
+
   render() {
     const post = this.props.data.markdownRemark
     const siteTitle = get(this.props, "data.site.siteMetadata.title")
@@ -61,6 +67,13 @@ class BlogPostTemplate extends React.Component {
 
         <hr/>
         {/* <Bio /> */}
+        <ReactDisqusThread
+            shortname="ernieyang09-github-io"
+            identifier="something-unique-12345"
+            title="Example Thread"
+            url="http://www.example.com/example-thread"
+            category_id="123456"
+            onNewComment={this.handleNewComment}/>
       </div>
     )
   }
