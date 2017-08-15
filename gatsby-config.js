@@ -16,12 +16,6 @@ module.exports = {
       options: {
         plugins: [
           {
-            resolve: `gatsby-plugin-google-analytics`,
-            options: {
-              trackingId: 'UA-45974567-2',
-            },
-          },
-          {
             resolve: `gatsby-plugin-google-tagmanager`,
             options: {
               id: 'GTM-KXT5BHM',
@@ -40,6 +34,7 @@ module.exports = {
             },
           },
           `gatsby-remark-prismjs`,
+          `gatsby-remark-copy-linked-files`,
         ],
       },
     },
