@@ -6,7 +6,7 @@
   "dependencies": {
     "classnames": "^2.2.5",
     "flexboxgrid": "^6.3.1",
-    "gatsby": "^1.0.1",
+    "gatsby": "^1.8.11",
     "gatsby-link": "^1.0.1",
     "gatsby-plugin-google-analytics": "^1.0.3",
     "gatsby-plugin-google-tagmanager": "^1.0.3",
