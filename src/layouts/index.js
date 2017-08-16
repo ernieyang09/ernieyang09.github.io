@@ -46,6 +46,7 @@ export default class Template extends React.Component {
           meta={[
             { name: "description", content: "ernieyang09的blog，用來記錄前端的學習歷程" },
             { name: "keywords", content: "Frond-End,javascript" },
+            { name: "google-site-verification", content: "Fwf4fkSVzuuPvX1cMlMn75ih2EVk7TomT8luoiPOuJs" },
           ]}
         />
         <Header path={this.props.location.pathname} />
