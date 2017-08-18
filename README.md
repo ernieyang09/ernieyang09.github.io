@@ -10,10 +10,8 @@ TODO continues...
 
 ## TODO List
 
-- GA & GTM
 - NavBar其他頁面
 - Aside Function
 - RWD
-- disqus
 - tags
 - 文章樣式
