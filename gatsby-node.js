@@ -81,7 +81,7 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
 
       const fileNode = getNode(node.parent)
       const parsedFilePath = path.parse(fileNode.relativePath)
-      slug = `/${parsedFilePath.name.split("--")[1]}/`
+      slug = `/posts/${parsedFilePath.name.split("--")[1]}/`
       createNodeField({ node, name: `slug`, value: slug })
     }
     resolve();
