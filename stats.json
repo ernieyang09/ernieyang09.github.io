@@ -28,25 +28,13 @@
       "path---tags-javascript-9ead0a787048e5731bbb.js",
       "path---tags-javascript-9ead0a787048e5731bbb.js.map"
     ],
-    "path---redux-dev-tool": [
-      "path---redux-dev-tool-234fd4254fbfd15d3e01.js",
-      "path---redux-dev-tool-234fd4254fbfd15d3e01.js.map"
-    ],
     "path---tags-react": [
-      "path---tags-react-881354f4e8486e8d16e9.js",
-      "path---tags-react-881354f4e8486e8d16e9.js.map"
-    ],
-    "path---test": [
-      "path---test-2a60ae46695614a50c10.js",
-      "path---test-2a60ae46695614a50c10.js.map"
+      "path---tags-react-b9e50765facffb7b6750.js",
+      "path---tags-react-b9e50765facffb7b6750.js.map"
     ],
     "path---first-post": [
       "path---first-post-6eb7e3481b4fccbb5ee8.js",
       "path---first-post-6eb7e3481b4fccbb5ee8.js.map"
-    ],
-    "path---react-context": [
-      "path---react-context-3c6263eb684004f840ec.js",
-      "path---react-context-3c6263eb684004f840ec.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-213b7b1e8b96fb6ea7e1.js",
@@ -57,16 +45,12 @@
       "path---tags-promise-4c56b0b6048f6cc32c05.js.map"
     ],
     "path---index": [
-      "path---index-5374bd8e9a8f3c09353b.js",
-      "path---index-5374bd8e9a8f3c09353b.js.map"
+      "path---index-59bc17b6af8c60d7a037.js",
+      "path---index-59bc17b6af8c60d7a037.js.map"
     ],
     "path---tags-rest": [
       "path---tags-rest-bf665d33ff3305a1a1c8.js",
       "path---tags-rest-bf665d33ff3305a1a1c8.js.map"
-    ],
-    "path---connect-n-di": [
-      "path---connect-n-di-da9c5716a700ed839c49.js",
-      "path---connect-n-di-da9c5716a700ed839c49.js.map"
     ],
     "path---tags-redux": [
       "path---tags-redux-c7f57a8ef0e3c229920f.js",
@@ -97,8 +81,8 @@
       "component---src-templates-posts-jsx-e4247fcb7b07b4fd4490.js.map"
     ],
     "app": [
-      "app-a84a0fa2b6786e15b978.js",
-      "app-a84a0fa2b6786e15b978.js.map"
+      "app-259c74c37fecae1cac7e.js",
+      "app-259c74c37fecae1cac7e.js.map"
     ],
     "path---tags-authorization": [
       "path---tags-authorization-25f83130e20c079b0a7b.js",
@@ -119,10 +103,6 @@
     "path---redux-middleware": [
       "path---redux-middleware-c0b582da4cf4493fbf01.js",
       "path---redux-middleware-c0b582da4cf4493fbf01.js.map"
-    ],
-    "path---react-animation": [
-      "path---react-animation-cfae680227dcc8c3fbaf.js",
-      "path---react-animation-cfae680227dcc8c3fbaf.js.map"
     ],
     "component---src-templates-tag-page-jsx": [
       "component---src-templates-tag-page-jsx-b2da9bb3da76d2b47104.js",
