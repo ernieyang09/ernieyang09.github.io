@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `前端小誌`,
     author: "Ernie Yang",
+    siteUrl: "https://ernieyang09.github.io"
   },
   plugins: [
     {
@@ -37,6 +38,9 @@ module.exports = {
           `gatsby-remark-copy-linked-files`,
         ],
       },
+    },
+    {
+      resolve: `gatsby-plugin-sitemap`
     },
     `gatsby-plugin-sass`,
     `gatsby-plugin-sharp`,
