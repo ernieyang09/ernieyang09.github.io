@@ -40,6 +40,10 @@
       "path---tags-react-b9e50765facffb7b6750.js",
       "path---tags-react-b9e50765facffb7b6750.js.map"
     ],
+    "path---tags-ui-ux": [
+      "path---tags-ui-ux-cdfa32f91a341b96c0c1.js",
+      "path---tags-ui-ux-cdfa32f91a341b96c0c1.js.map"
+    ],
     "path---posts-react-setstate": [
       "path---posts-react-setstate-da9cfc027e006cc39996.js",
       "path---posts-react-setstate-da9cfc027e006cc39996.js.map"
@@ -57,8 +61,8 @@
       "path---posts-first-post-3dcc6d93dfaa7eb96d38.js.map"
     ],
     "path---index": [
-      "path---index-878cf989fce2b5df9f4c.js",
-      "path---index-878cf989fce2b5df9f4c.js.map"
+      "path---index-409faae5dedc6bc2a0b6.js",
+      "path---index-409faae5dedc6bc2a0b6.js.map"
     ],
     "path---tags-rest": [
       "path---tags-rest-bf665d33ff3305a1a1c8.js",
@@ -67,10 +71,6 @@
     "path---tags-redux": [
       "path---tags-redux-c7f57a8ef0e3c229920f.js",
       "path---tags-redux-c7f57a8ef0e3c229920f.js.map"
-    ],
-    "path---posts-test": [
-      "path---posts-test-8f9d80c2f4d4daa0b675.js",
-      "path---posts-test-8f9d80c2f4d4daa0b675.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-395a01dbcea2c83d7cc8.js",
@@ -93,8 +93,12 @@
       "component---src-templates-posts-jsx-e4247fcb7b07b4fd4490.js.map"
     ],
     "app": [
-      "app-3ccd42603843a2e5be3a.js",
-      "app-3ccd42603843a2e5be3a.js.map"
+      "app-70b8f33768764dfb6793.js",
+      "app-70b8f33768764dfb6793.js.map"
+    ],
+    "path---posts-sass-signup-flow": [
+      "path---posts-sass-signup-flow-ec5267fbac396cc428c9.js",
+      "path---posts-sass-signup-flow-ec5267fbac396cc428c9.js.map"
     ],
     "path---tags-authorization": [
       "path---tags-authorization-25f83130e20c079b0a7b.js",
