@@ -2,7 +2,7 @@ import React from "react"
 import Helmet from "react-helmet"
 import Link from "gatsby-link"
 import styled from 'styled-components'
-import get from 'lodash/get'
+import _ from 'lodash'
 import moment from 'moment'
 import ReactDisqusThread from 'react-disqus-comments';
 import './post.scss';
@@ -55,7 +55,7 @@ class BlogPostTemplate extends React.Component {
 
   render() {
     const post = this.props.data.markdownRemark
-    const siteTitle = get(this.props, "data.site.siteMetadata.title")
+    const siteTitle = _.get(this.props, "data.site.siteMetadata.title")
 
     return (
       <div className="post content-container">

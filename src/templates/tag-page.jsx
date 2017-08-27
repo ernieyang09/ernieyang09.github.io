@@ -1,7 +1,7 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
-import _ from 'lodash';
+import _ from 'lodash'
 import moment from 'moment'
 import styled from 'styled-components'
 
