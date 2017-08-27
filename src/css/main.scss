@@ -11,3 +11,9 @@ html {
 h1,h2,h3,h4,h5,h6 {
     font-family: source-han-serif-tc, serif;
 }
+
+.content-container {
+  flex:1;
+  min-Width:0;
+  margin-right: 50px;
+}
