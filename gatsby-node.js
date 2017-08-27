@@ -49,7 +49,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
         })
 
         // Tag pages.
-        let tags = []
+        let tags = [];
         _.each(result.data.allMarkdownRemark.edges, edge => {
           if (_.get(edge, "node.frontmatter.tags")) {
             tags = tags.concat(edge.node.frontmatter.tags)

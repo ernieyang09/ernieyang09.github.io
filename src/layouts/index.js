@@ -9,7 +9,7 @@ import { Footer } from '../components/Footer'
 import 'flexboxgrid';
 import "prismjs/themes/prism-okaidia.css"
 import "../css/normalize.css"
-import "../css/main.css"
+import "../css/main.scss"
 
 
 const Wrapper = styled.div`
