@@ -4,7 +4,7 @@ import styled from 'styled-components'
 import moment from 'moment'
 
 const Post = styled.div`
-  padding-bottom: 60px;
+  padding-bottom: 90px;
 `;
 
 const PostSnippet = styled.div`
@@ -55,7 +55,7 @@ export default class PostItem extends React.Component {
   render() {
     const props = this.props;
     const snippet = props.html.match(/<snippet>[^]*?<\/snippet>/);
-    
+
     return (
       <Post>
         <PostHeader><Link to={props.fields.slug}>{props.frontmatter.title}</Link></PostHeader>
