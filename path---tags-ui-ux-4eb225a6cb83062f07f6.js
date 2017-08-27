@@ -1,0 +1,2 @@
+webpackJsonp([0x531bc2abb7567400],{"./node_modules/json-loader/index.js!./.cache/json/tags-ui-ux.json":function(a,t){a.exports={data:{site:{siteMetadata:{title:"前端小誌",author:"Ernie Yang"}},allMarkdownRemark:{edges:[{node:{fields:{slug:"/posts/sass-signup-flow/"},frontmatter:{title:"3 Common SaaS Sign-Up Flows",date:"2017-08-20T22:03"}}}]}},pathContext:{tag:"UI/UX"}}}});
+//# sourceMappingURL=path---tags-ui-ux-4eb225a6cb83062f07f6.js.map

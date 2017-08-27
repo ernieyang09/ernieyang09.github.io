@@ -1,0 +1,2 @@
+webpackJsonp([0x39aad7d899580400],{"./node_modules/json-loader/index.js!./.cache/json/tags-async.json":function(e,a){e.exports={data:{site:{siteMetadata:{title:"前端小誌",author:"Ernie Yang"}},allMarkdownRemark:{edges:[{node:{fields:{slug:"/posts/dont-release-zalgo/"},frontmatter:{title:"Don't release Zalgo!!",date:"2017-08-01T01:30"}}}]}},pathContext:{tag:"async"}}}});
+//# sourceMappingURL=path---tags-async-90ecccb5ce340cb036fc.js.map

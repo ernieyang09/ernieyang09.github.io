@@ -1,2 +1,0 @@
-webpackJsonp([0x531bc2abb7567400],{"./node_modules/json-loader/index.js!./.cache/json/tags-ui-ux.json":function(o,n){o.exports={pathContext:{tag:"UI/UX"}}}});
-//# sourceMappingURL=path---tags-ui-ux-cdfa32f91a341b96c0c1.js.map
