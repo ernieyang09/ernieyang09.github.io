@@ -11,6 +11,25 @@ const PostHeader = styled.h2`
   font-size: 25px;
   font-weight: bold;
   color: #555;
+  margin-bottom: 50px;
+`;
+
+const Year = styled.div`
+  margin-left: 12px;
+  margin-bottom: 50px;
+`;
+
+const Article = styled.li`
+  margin: 15px 0;
+  letter-spacing: 0.2px;
+`;
+
+const PageLink = styled(Link)`
+  color: #555;
+
+  &:hover {
+    #444
+  }
 `;
 
 class TagPostsTemplate extends React.Component {
@@ -25,24 +44,26 @@ class TagPostsTemplate extends React.Component {
 
     return (
       <div className="content-container">
+        <PostHeader>標籤: {tag}</PostHeader>
         {
           yearList.map(year => {
             const PostsInYear = _.filter(posts, post => moment(post.frontmatter.date).year() === year);
             const PostsJsx = PostsInYear.map((post, i) =>
-              <div key={i}>
-                {moment(post.frontmatter.date).format("MM月DD日")}
-                { '-' }
-                <Link to={post.fields.slug}>{post.frontmatter.title}</Link>
-              </div>
+              <Article key={i}>
+                {moment(post.frontmatter.date).format("YYYY/MM/DD")}
+                &nbsp;&nbsp;
+                <PageLink to={post.fields.slug}>{post.frontmatter.title}</PageLink>
+              </Article>
             );
             return (
-              <div key={year}>
-                <PostHeader>標籤: {tag}</PostHeader>
+              <Year key={year}>
                 <h3>{year}</h3>
+                <ul>
                 {
                   PostsJsx
                 }
-              </div>
+                </ul>
+              </Year>
             )
           })
         }
