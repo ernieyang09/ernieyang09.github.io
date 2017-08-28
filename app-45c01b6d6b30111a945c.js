@@ -62,8 +62,8 @@ webpackJsonp([15178676390636814000],{
 	
 	exports.json = (_exports$json = {
 	  "layout-index.json": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"),
-	  "posts-first-post.json": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-first-post!./.cache/json/posts-first-post.json")
-	}, _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-react-setstate.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-react-setstate!./.cache/json/posts-react-setstate.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-fetch-in-react-life-cycle.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-fetch-in-react-life-cycle!./.cache/json/posts-fetch-in-react-life-cycle.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-dont-release-zalgo.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-dont-release-zalgo!./.cache/json/posts-dont-release-zalgo.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-session-n-token.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-session-n-token!./.cache/json/posts-session-n-token.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-redux-dev-tool.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-redux-dev-tool!./.cache/json/posts-redux-dev-tool.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-redux-middleware.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-redux-middleware!./.cache/json/posts-redux-middleware.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-sass-signup-flow.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-sass-signup-flow!./.cache/json/posts-sass-signup-flow.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-blog.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-blog!./.cache/json/tags-blog.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-react.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-react!./.cache/json/tags-react.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-javascript.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-javascript!./.cache/json/tags-javascript.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-promise.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-promise!./.cache/json/tags-promise.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-async.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-async!./.cache/json/tags-async.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-session.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-session!./.cache/json/tags-session.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-rest.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-rest!./.cache/json/tags-rest.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-authorization.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-authorization!./.cache/json/tags-authorization.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-redux.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-redux!./.cache/json/tags-redux.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-ui-ux.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-ui-ux!./.cache/json/tags-ui-ux.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["404.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---404!./.cache/json/404.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---index!./.cache/json/index.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["404-html.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---404-html!./.cache/json/404-html.json"), _exports$json);
+	  "posts-dont-release-zalgo.json": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-dont-release-zalgo!./.cache/json/posts-dont-release-zalgo.json")
+	}, _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-session-n-token.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-session-n-token!./.cache/json/posts-session-n-token.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-redux-middleware.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-redux-middleware!./.cache/json/posts-redux-middleware.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-redux-dev-tool.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-redux-dev-tool!./.cache/json/posts-redux-dev-tool.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-sass-signup-flow.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-sass-signup-flow!./.cache/json/posts-sass-signup-flow.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-fetch-in-react-life-cycle.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-fetch-in-react-life-cycle!./.cache/json/posts-fetch-in-react-life-cycle.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-react-setstate.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-react-setstate!./.cache/json/posts-react-setstate.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-first-post.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-first-post!./.cache/json/posts-first-post.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-promise.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-promise!./.cache/json/tags-promise.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-javascript.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-javascript!./.cache/json/tags-javascript.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-async.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-async!./.cache/json/tags-async.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-session.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-session!./.cache/json/tags-session.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-rest.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-rest!./.cache/json/tags-rest.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-authorization.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-authorization!./.cache/json/tags-authorization.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-react.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-react!./.cache/json/tags-react.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-redux.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-redux!./.cache/json/tags-redux.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-ui-ux.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-ui-ux!./.cache/json/tags-ui-ux.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-blog.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-blog!./.cache/json/tags-blog.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["404.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---404!./.cache/json/404.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---index!./.cache/json/index.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["404-html.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---404-html!./.cache/json/404-html.json"), _exports$json);
 	
 	exports.layouts = {
 	  "component---src-layouts-index-js": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=component---src-layouts-index-js!./.cache/layouts/index.js")
@@ -1147,27 +1147,6 @@ webpackJsonp([15178676390636814000],{
 			"componentChunkName": "component---src-templates-posts-jsx",
 			"layout": "index",
 			"layoutComponentChunkName": "component---src-layouts-index-js",
-			"jsonName": "posts-first-post.json",
-			"path": "/posts/first-post/"
-		},
-		{
-			"componentChunkName": "component---src-templates-posts-jsx",
-			"layout": "index",
-			"layoutComponentChunkName": "component---src-layouts-index-js",
-			"jsonName": "posts-react-setstate.json",
-			"path": "/posts/react-setstate/"
-		},
-		{
-			"componentChunkName": "component---src-templates-posts-jsx",
-			"layout": "index",
-			"layoutComponentChunkName": "component---src-layouts-index-js",
-			"jsonName": "posts-fetch-in-react-life-cycle.json",
-			"path": "/posts/fetch-in-react-life-cycle/"
-		},
-		{
-			"componentChunkName": "component---src-templates-posts-jsx",
-			"layout": "index",
-			"layoutComponentChunkName": "component---src-layouts-index-js",
 			"jsonName": "posts-dont-release-zalgo.json",
 			"path": "/posts/dont-release-zalgo/"
 		},
@@ -1182,15 +1161,15 @@ webpackJsonp([15178676390636814000],{
 			"componentChunkName": "component---src-templates-posts-jsx",
 			"layout": "index",
 			"layoutComponentChunkName": "component---src-layouts-index-js",
-			"jsonName": "posts-redux-dev-tool.json",
-			"path": "/posts/redux-dev-tool/"
+			"jsonName": "posts-redux-middleware.json",
+			"path": "/posts/redux-middleware/"
 		},
 		{
 			"componentChunkName": "component---src-templates-posts-jsx",
 			"layout": "index",
 			"layoutComponentChunkName": "component---src-layouts-index-js",
-			"jsonName": "posts-redux-middleware.json",
-			"path": "/posts/redux-middleware/"
+			"jsonName": "posts-redux-dev-tool.json",
+			"path": "/posts/redux-dev-tool/"
 		},
 		{
 			"componentChunkName": "component---src-templates-posts-jsx",
@@ -1200,25 +1179,25 @@ webpackJsonp([15178676390636814000],{
 			"path": "/posts/sass-signup-flow/"
 		},
 		{
-			"componentChunkName": "component---src-templates-tag-page-jsx",
+			"componentChunkName": "component---src-templates-posts-jsx",
 			"layout": "index",
 			"layoutComponentChunkName": "component---src-layouts-index-js",
-			"jsonName": "tags-blog.json",
-			"path": "/tags/blog/"
+			"jsonName": "posts-fetch-in-react-life-cycle.json",
+			"path": "/posts/fetch-in-react-life-cycle/"
 		},
 		{
-			"componentChunkName": "component---src-templates-tag-page-jsx",
+			"componentChunkName": "component---src-templates-posts-jsx",
 			"layout": "index",
 			"layoutComponentChunkName": "component---src-layouts-index-js",
-			"jsonName": "tags-react.json",
-			"path": "/tags/react/"
+			"jsonName": "posts-react-setstate.json",
+			"path": "/posts/react-setstate/"
 		},
 		{
-			"componentChunkName": "component---src-templates-tag-page-jsx",
+			"componentChunkName": "component---src-templates-posts-jsx",
 			"layout": "index",
 			"layoutComponentChunkName": "component---src-layouts-index-js",
-			"jsonName": "tags-javascript.json",
-			"path": "/tags/javascript/"
+			"jsonName": "posts-first-post.json",
+			"path": "/posts/first-post/"
 		},
 		{
 			"componentChunkName": "component---src-templates-tag-page-jsx",
@@ -1226,6 +1205,13 @@ webpackJsonp([15178676390636814000],{
 			"layoutComponentChunkName": "component---src-layouts-index-js",
 			"jsonName": "tags-promise.json",
 			"path": "/tags/promise/"
+		},
+		{
+			"componentChunkName": "component---src-templates-tag-page-jsx",
+			"layout": "index",
+			"layoutComponentChunkName": "component---src-layouts-index-js",
+			"jsonName": "tags-javascript.json",
+			"path": "/tags/javascript/"
 		},
 		{
 			"componentChunkName": "component---src-templates-tag-page-jsx",
@@ -1259,6 +1245,13 @@ webpackJsonp([15178676390636814000],{
 			"componentChunkName": "component---src-templates-tag-page-jsx",
 			"layout": "index",
 			"layoutComponentChunkName": "component---src-layouts-index-js",
+			"jsonName": "tags-react.json",
+			"path": "/tags/react/"
+		},
+		{
+			"componentChunkName": "component---src-templates-tag-page-jsx",
+			"layout": "index",
+			"layoutComponentChunkName": "component---src-layouts-index-js",
 			"jsonName": "tags-redux.json",
 			"path": "/tags/redux/"
 		},
@@ -1268,6 +1261,13 @@ webpackJsonp([15178676390636814000],{
 			"layoutComponentChunkName": "component---src-layouts-index-js",
 			"jsonName": "tags-ui-ux.json",
 			"path": "/tags/ui-ux/"
+		},
+		{
+			"componentChunkName": "component---src-templates-tag-page-jsx",
+			"layout": "index",
+			"layoutComponentChunkName": "component---src-layouts-index-js",
+			"jsonName": "tags-blog.json",
+			"path": "/tags/blog/"
 		},
 		{
 			"componentChunkName": "component---src-pages-404-js",
@@ -1922,4 +1922,4 @@ webpackJsonp([15178676390636814000],{
 /***/ })
 
 });
-//# sourceMappingURL=app-3a0ce12490ed9140d106.js.map
+//# sourceMappingURL=app-45c01b6d6b30111a945c.js.map
