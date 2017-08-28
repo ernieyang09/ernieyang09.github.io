@@ -13,5 +13,4 @@ TODO continues...
 - NavBar其他頁面
 - Aside Function
 - RWD
-- tags
 - 文章樣式
