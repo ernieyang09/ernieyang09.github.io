@@ -16,6 +16,10 @@
       "path---tags-blog-905349e979d226f3294c.js",
       "path---tags-blog-905349e979d226f3294c.js.map"
     ],
+    "path---posts-connect-n-di": [
+      "path---posts-connect-n-di-fc6c402971b78b3619a2.js",
+      "path---posts-connect-n-di-fc6c402971b78b3619a2.js.map"
+    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-3eab69028b1230614453.js",
       "component---src-pages-index-js-3eab69028b1230614453.js.map"
@@ -29,8 +33,8 @@
       "path---tags-async-90ecccb5ce340cb036fc.js.map"
     ],
     "path---tags-javascript": [
-      "path---tags-javascript-12de79e4fddd5505cc02.js",
-      "path---tags-javascript-12de79e4fddd5505cc02.js.map"
+      "path---tags-javascript-5d9bbb0b17a170fee700.js",
+      "path---tags-javascript-5d9bbb0b17a170fee700.js.map"
     ],
     "path---posts-fetch-in-react-life-cycle": [
       "path---posts-fetch-in-react-life-cycle-7d935aa924a1036842a2.js",
@@ -61,8 +65,8 @@
       "path---posts-first-post-3dcc6d93dfaa7eb96d38.js.map"
     ],
     "path---index": [
-      "path---index-379577153ed999725515.js",
-      "path---index-379577153ed999725515.js.map"
+      "path---index-93d27b8f4bcd2d315328.js",
+      "path---index-93d27b8f4bcd2d315328.js.map"
     ],
     "path---tags-rest": [
       "path---tags-rest-42d28fa6b3d56671da90.js",
@@ -93,12 +97,16 @@
       "component---src-templates-posts-jsx-bdbacbf039f9baf6c016.js.map"
     ],
     "app": [
-      "app-45c01b6d6b30111a945c.js",
-      "app-45c01b6d6b30111a945c.js.map"
+      "app-20ad5fd892bdec06a364.js",
+      "app-20ad5fd892bdec06a364.js.map"
     ],
     "path---posts-sass-signup-flow": [
-      "path---posts-sass-signup-flow-a953e8079265199b255e.js",
-      "path---posts-sass-signup-flow-a953e8079265199b255e.js.map"
+      "path---posts-sass-signup-flow-617d93a7e025ba9f0eec.js",
+      "path---posts-sass-signup-flow-617d93a7e025ba9f0eec.js.map"
+    ],
+    "path---tags-design-pattern": [
+      "path---tags-design-pattern-f774483020a4e6e132a0.js",
+      "path---tags-design-pattern-f774483020a4e6e132a0.js.map"
     ],
     "path---tags-authorization": [
       "path---tags-authorization-7a566cda4dd83c20bb34.js",
