@@ -17,8 +17,8 @@
       "path---tags-blog-905349e979d226f3294c.js.map"
     ],
     "path---posts-connect-n-di": [
-      "path---posts-connect-n-di-cd60e3658c371cafccf0.js",
-      "path---posts-connect-n-di-cd60e3658c371cafccf0.js.map"
+      "path---posts-connect-n-di-837834b32217487e0770.js",
+      "path---posts-connect-n-di-837834b32217487e0770.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-3eab69028b1230614453.js",
@@ -33,16 +33,16 @@
       "path---tags-async-90ecccb5ce340cb036fc.js.map"
     ],
     "path---tags-javascript": [
-      "path---tags-javascript-6e260b93f891b1f6cffc.js",
-      "path---tags-javascript-6e260b93f891b1f6cffc.js.map"
+      "path---tags-javascript-6f8cc297fa660e7d11c5.js",
+      "path---tags-javascript-6f8cc297fa660e7d11c5.js.map"
     ],
     "path---posts-fetch-in-react-life-cycle": [
       "path---posts-fetch-in-react-life-cycle-7d935aa924a1036842a2.js",
       "path---posts-fetch-in-react-life-cycle-7d935aa924a1036842a2.js.map"
     ],
     "path---tags-react": [
-      "path---tags-react-e82ff6ae495b00024f0a.js",
-      "path---tags-react-e82ff6ae495b00024f0a.js.map"
+      "path---tags-react-52f1eac988910e1f7218.js",
+      "path---tags-react-52f1eac988910e1f7218.js.map"
     ],
     "path---tags-ui-ux": [
       "path---tags-ui-ux-4eb225a6cb83062f07f6.js",
@@ -56,6 +56,10 @@
       "component---src-layouts-index-js-864989fa22a94aecabe3.js",
       "component---src-layouts-index-js-864989fa22a94aecabe3.js.map"
     ],
+    "path---posts-hoc-n-decorator": [
+      "path---posts-hoc-n-decorator-048d02ef03538c165965.js",
+      "path---posts-hoc-n-decorator-048d02ef03538c165965.js.map"
+    ],
     "path---tags-promise": [
       "path---tags-promise-34e9f383848daba073c7.js",
       "path---tags-promise-34e9f383848daba073c7.js.map"
@@ -65,8 +69,8 @@
       "path---posts-first-post-3dcc6d93dfaa7eb96d38.js.map"
     ],
     "path---index": [
-      "path---index-04f1a5253c7ba6083d7b.js",
-      "path---index-04f1a5253c7ba6083d7b.js.map"
+      "path---index-8509403a3c3547b2c2f1.js",
+      "path---index-8509403a3c3547b2c2f1.js.map"
     ],
     "path---tags-rest": [
       "path---tags-rest-42d28fa6b3d56671da90.js",
@@ -101,8 +105,8 @@
       "path---posts-react-context-e6f6e4c45ecba3fdd6b2.js.map"
     ],
     "app": [
-      "app-0413993258e8054aaed1.js",
-      "app-0413993258e8054aaed1.js.map"
+      "app-1aecc31ccbf0b7787513.js",
+      "app-1aecc31ccbf0b7787513.js.map"
     ],
     "path---posts-sass-signup-flow": [
       "path---posts-sass-signup-flow-617d93a7e025ba9f0eec.js",
