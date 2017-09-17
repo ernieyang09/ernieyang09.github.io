@@ -1,0 +1,13 @@
+.about {
+  .profile * {
+    display: inline-block;
+  }
+
+  .avatar {
+    width: 100px;
+    height: 100px;
+    background: url('./avatar.jpeg')  no-repeat center center;
+    background-size: cover;
+    border-radius: 150px;
+  }
+}
