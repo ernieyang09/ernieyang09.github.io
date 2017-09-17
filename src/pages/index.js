@@ -7,7 +7,7 @@ export default class Index extends React.Component {
   render() {
     const posts = this.props.data.allMarkdownRemark.edges;
     return (
-      <div style={{flex:1,minWidth:0,marginRight:'50px'}}>
+      <div className='content-container'>
         {
           posts.map( (post, index) => <PostItem key={index} {...post.node} /> )
         }
