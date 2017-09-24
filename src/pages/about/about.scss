@@ -1,13 +1,44 @@
 .about {
-  .profile * {
-    display: inline-block;
+  line-height: 20px;
+  text-align: justify;
+  .profile {
+    display: flex;
+    align-items: center;
+
+    .avatar {
+      flex:0 0 100px;
+      height: 100px;
+      background: url('./avatar.jpeg')  no-repeat center center;
+      background-size: cover;
+      border-radius: 150px;
+    }
+
+    .divide {
+      border-left: 1px solid #ddd;
+      margin: 0px 12px;
+      height: 75px;
+    }
+
   }
 
-  .avatar {
-    width: 100px;
-    height: 100px;
-    background: url('./avatar.jpeg')  no-repeat center center;
-    background-size: cover;
-    border-radius: 150px;
+  h4 {
+    font-weight: 400;
+    padding-bottom: 12px;
+    margin-bottom: 0px;
+    border-bottom: 1px solid #ddd;
   }
+
+  dt {
+    width:100px;
+    color:#010101;
+    float: left;
+  }
+
+  dd {
+    margin: 0 0 .563em;
+    a {
+      color:#555;
+    }
+  }
+
 }
