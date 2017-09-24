@@ -57,13 +57,14 @@ webpackJsonp([15178676390636814000],{
 	  "component---src-templates-posts-jsx": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=component---src-templates-posts-jsx!./src/templates/Posts.jsx"),
 	  "component---src-templates-tag-page-jsx": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=component---src-templates-tag-page-jsx!./src/templates/tag-page.jsx"),
 	  "component---src-pages-404-js": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=component---src-pages-404-js!./src/pages/404.js"),
-	  "component---src-pages-index-js": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=component---src-pages-index-js!./src/pages/index.js")
+	  "component---src-pages-index-js": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=component---src-pages-index-js!./src/pages/index.js"),
+	  "component---src-pages-about-index-jsx": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=component---src-pages-about-index-jsx!./src/pages/about/index.jsx")
 	};
 	
 	exports.json = (_exports$json = {
 	  "layout-index.json": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"),
 	  "posts-hoc-n-decorator.json": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-hoc-n-decorator!./.cache/json/posts-hoc-n-decorator.json")
-	}, _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-react-context.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-react-context!./.cache/json/posts-react-context.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-react-setstate.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-react-setstate!./.cache/json/posts-react-setstate.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-first-post.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-first-post!./.cache/json/posts-first-post.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-fetch-in-react-life-cycle.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-fetch-in-react-life-cycle!./.cache/json/posts-fetch-in-react-life-cycle.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-dont-release-zalgo.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-dont-release-zalgo!./.cache/json/posts-dont-release-zalgo.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-session-n-token.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-session-n-token!./.cache/json/posts-session-n-token.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-redux-middleware.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-redux-middleware!./.cache/json/posts-redux-middleware.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-redux-dev-tool.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-redux-dev-tool!./.cache/json/posts-redux-dev-tool.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-sass-signup-flow.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-sass-signup-flow!./.cache/json/posts-sass-signup-flow.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-connect-n-di.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-connect-n-di!./.cache/json/posts-connect-n-di.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-react.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-react!./.cache/json/tags-react.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-javascript.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-javascript!./.cache/json/tags-javascript.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-blog.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-blog!./.cache/json/tags-blog.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-promise.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-promise!./.cache/json/tags-promise.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-async.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-async!./.cache/json/tags-async.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-session.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-session!./.cache/json/tags-session.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-rest.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-rest!./.cache/json/tags-rest.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-authorization.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-authorization!./.cache/json/tags-authorization.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-redux.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-redux!./.cache/json/tags-redux.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-ui-ux.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-ui-ux!./.cache/json/tags-ui-ux.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-design-pattern.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-design-pattern!./.cache/json/tags-design-pattern.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["404.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---404!./.cache/json/404.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---index!./.cache/json/index.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["404-html.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---404-html!./.cache/json/404-html.json"), _exports$json);
+	}, _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-react-context.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-react-context!./.cache/json/posts-react-context.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-session-n-token.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-session-n-token!./.cache/json/posts-session-n-token.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-dont-release-zalgo.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-dont-release-zalgo!./.cache/json/posts-dont-release-zalgo.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-redux-middleware.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-redux-middleware!./.cache/json/posts-redux-middleware.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-redux-dev-tool.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-redux-dev-tool!./.cache/json/posts-redux-dev-tool.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-sass-signup-flow.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-sass-signup-flow!./.cache/json/posts-sass-signup-flow.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-first-post.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-first-post!./.cache/json/posts-first-post.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-fetch-in-react-life-cycle.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-fetch-in-react-life-cycle!./.cache/json/posts-fetch-in-react-life-cycle.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-react-setstate.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-react-setstate!./.cache/json/posts-react-setstate.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["posts-connect-n-di.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---posts-connect-n-di!./.cache/json/posts-connect-n-di.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-react.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-react!./.cache/json/tags-react.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-javascript.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-javascript!./.cache/json/tags-javascript.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-session.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-session!./.cache/json/tags-session.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-rest.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-rest!./.cache/json/tags-rest.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-authorization.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-authorization!./.cache/json/tags-authorization.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-promise.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-promise!./.cache/json/tags-promise.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-async.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-async!./.cache/json/tags-async.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-redux.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-redux!./.cache/json/tags-redux.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-ui-ux.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-ui-ux!./.cache/json/tags-ui-ux.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-blog.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-blog!./.cache/json/tags-blog.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["tags-design-pattern.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---tags-design-pattern!./.cache/json/tags-design-pattern.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["404.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---404!./.cache/json/404.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---index!./.cache/json/index.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["404-html.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---404-html!./.cache/json/404-html.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["about.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---about!./.cache/json/about.json"), _exports$json);
 	
 	exports.layouts = {
 	  "component---src-layouts-index-js": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=component---src-layouts-index-js!./.cache/layouts/index.js")
@@ -329,6 +330,27 @@ webpackJsonp([15178676390636814000],{
 	          cb(true)
 	        } else {
 	          cb(null, function() { return __webpack_require__("./node_modules/json-loader/index.js!./.cache/json/404.json") })
+	        }
+	      });
+	     }
+	    
+
+/***/ }),
+
+/***/ "./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---about!./.cache/json/about.json":
+/***/ (function(module, exports, __webpack_require__) {
+
+	
+	    __webpack_require__(
+	      "./node_modules/gatsby/dist/loaders/gatsby-module-loader/patch.js"
+	    );
+	    module.exports = function(cb) { 
+	     return __webpack_require__.e/* nsure */(17953591736895156000, function(_, error) {
+	        if (error) {
+	          console.log('bundle loading error', error)
+	          cb(true)
+	        } else {
+	          cb(null, function() { return __webpack_require__("./node_modules/json-loader/index.js!./.cache/json/about.json") })
 	        }
 	      });
 	     }
@@ -1245,22 +1267,8 @@ webpackJsonp([15178676390636814000],{
 			"componentChunkName": "component---src-templates-posts-jsx",
 			"layout": "index",
 			"layoutComponentChunkName": "component---src-layouts-index-js",
-			"jsonName": "posts-react-setstate.json",
-			"path": "/posts/react-setstate/"
-		},
-		{
-			"componentChunkName": "component---src-templates-posts-jsx",
-			"layout": "index",
-			"layoutComponentChunkName": "component---src-layouts-index-js",
-			"jsonName": "posts-first-post.json",
-			"path": "/posts/first-post/"
-		},
-		{
-			"componentChunkName": "component---src-templates-posts-jsx",
-			"layout": "index",
-			"layoutComponentChunkName": "component---src-layouts-index-js",
-			"jsonName": "posts-fetch-in-react-life-cycle.json",
-			"path": "/posts/fetch-in-react-life-cycle/"
+			"jsonName": "posts-session-n-token.json",
+			"path": "/posts/session_n_token/"
 		},
 		{
 			"componentChunkName": "component---src-templates-posts-jsx",
@@ -1268,13 +1276,6 @@ webpackJsonp([15178676390636814000],{
 			"layoutComponentChunkName": "component---src-layouts-index-js",
 			"jsonName": "posts-dont-release-zalgo.json",
 			"path": "/posts/dont-release-zalgo/"
-		},
-		{
-			"componentChunkName": "component---src-templates-posts-jsx",
-			"layout": "index",
-			"layoutComponentChunkName": "component---src-layouts-index-js",
-			"jsonName": "posts-session-n-token.json",
-			"path": "/posts/session_n_token/"
 		},
 		{
 			"componentChunkName": "component---src-templates-posts-jsx",
@@ -1301,6 +1302,27 @@ webpackJsonp([15178676390636814000],{
 			"componentChunkName": "component---src-templates-posts-jsx",
 			"layout": "index",
 			"layoutComponentChunkName": "component---src-layouts-index-js",
+			"jsonName": "posts-first-post.json",
+			"path": "/posts/first-post/"
+		},
+		{
+			"componentChunkName": "component---src-templates-posts-jsx",
+			"layout": "index",
+			"layoutComponentChunkName": "component---src-layouts-index-js",
+			"jsonName": "posts-fetch-in-react-life-cycle.json",
+			"path": "/posts/fetch-in-react-life-cycle/"
+		},
+		{
+			"componentChunkName": "component---src-templates-posts-jsx",
+			"layout": "index",
+			"layoutComponentChunkName": "component---src-layouts-index-js",
+			"jsonName": "posts-react-setstate.json",
+			"path": "/posts/react-setstate/"
+		},
+		{
+			"componentChunkName": "component---src-templates-posts-jsx",
+			"layout": "index",
+			"layoutComponentChunkName": "component---src-layouts-index-js",
 			"jsonName": "posts-connect-n-di.json",
 			"path": "/posts/connect_n_di/"
 		},
@@ -1317,27 +1339,6 @@ webpackJsonp([15178676390636814000],{
 			"layoutComponentChunkName": "component---src-layouts-index-js",
 			"jsonName": "tags-javascript.json",
 			"path": "/tags/javascript/"
-		},
-		{
-			"componentChunkName": "component---src-templates-tag-page-jsx",
-			"layout": "index",
-			"layoutComponentChunkName": "component---src-layouts-index-js",
-			"jsonName": "tags-blog.json",
-			"path": "/tags/blog/"
-		},
-		{
-			"componentChunkName": "component---src-templates-tag-page-jsx",
-			"layout": "index",
-			"layoutComponentChunkName": "component---src-layouts-index-js",
-			"jsonName": "tags-promise.json",
-			"path": "/tags/promise/"
-		},
-		{
-			"componentChunkName": "component---src-templates-tag-page-jsx",
-			"layout": "index",
-			"layoutComponentChunkName": "component---src-layouts-index-js",
-			"jsonName": "tags-async.json",
-			"path": "/tags/async/"
 		},
 		{
 			"componentChunkName": "component---src-templates-tag-page-jsx",
@@ -1364,6 +1365,20 @@ webpackJsonp([15178676390636814000],{
 			"componentChunkName": "component---src-templates-tag-page-jsx",
 			"layout": "index",
 			"layoutComponentChunkName": "component---src-layouts-index-js",
+			"jsonName": "tags-promise.json",
+			"path": "/tags/promise/"
+		},
+		{
+			"componentChunkName": "component---src-templates-tag-page-jsx",
+			"layout": "index",
+			"layoutComponentChunkName": "component---src-layouts-index-js",
+			"jsonName": "tags-async.json",
+			"path": "/tags/async/"
+		},
+		{
+			"componentChunkName": "component---src-templates-tag-page-jsx",
+			"layout": "index",
+			"layoutComponentChunkName": "component---src-layouts-index-js",
 			"jsonName": "tags-redux.json",
 			"path": "/tags/redux/"
 		},
@@ -1373,6 +1388,13 @@ webpackJsonp([15178676390636814000],{
 			"layoutComponentChunkName": "component---src-layouts-index-js",
 			"jsonName": "tags-ui-ux.json",
 			"path": "/tags/ui-ux/"
+		},
+		{
+			"componentChunkName": "component---src-templates-tag-page-jsx",
+			"layout": "index",
+			"layoutComponentChunkName": "component---src-layouts-index-js",
+			"jsonName": "tags-blog.json",
+			"path": "/tags/blog/"
 		},
 		{
 			"componentChunkName": "component---src-templates-tag-page-jsx",
@@ -1401,6 +1423,13 @@ webpackJsonp([15178676390636814000],{
 			"layoutComponentChunkName": "component---src-layouts-index-js",
 			"jsonName": "404-html.json",
 			"path": "/404.html"
+		},
+		{
+			"componentChunkName": "component---src-pages-about-index-jsx",
+			"layout": "index",
+			"layoutComponentChunkName": "component---src-layouts-index-js",
+			"jsonName": "about.json",
+			"path": "/about/"
 		}
 	];
 
@@ -1970,6 +1999,27 @@ webpackJsonp([15178676390636814000],{
 
 /***/ }),
 
+/***/ "./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=component---src-pages-about-index-jsx!./src/pages/about/index.jsx":
+/***/ (function(module, exports, __webpack_require__) {
+
+	
+	    __webpack_require__(
+	      "./node_modules/gatsby/dist/loaders/gatsby-module-loader/patch.js"
+	    );
+	    module.exports = function(cb) { 
+	     return __webpack_require__.e/* nsure */(7614992734342739000, function(_, error) {
+	        if (error) {
+	          console.log('bundle loading error', error)
+	          cb(true)
+	        } else {
+	          cb(null, function() { return __webpack_require__("./node_modules/babel-loader/lib/index.js?{\"plugins\":[\"/Users/ernieyang09/Desktop/workspace/gatsby-blog/node_modules/gatsby/dist/utils/babel-plugin-extract-graphql.js\",\"/Users/ernieyang09/Desktop/workspace/gatsby-blog/node_modules/babel-plugin-add-module-exports/lib/index.js\",\"/Users/ernieyang09/Desktop/workspace/gatsby-blog/node_modules/babel-plugin-transform-object-assign/lib/index.js\"],\"presets\":[[\"/Users/ernieyang09/Desktop/workspace/gatsby-blog/node_modules/babel-preset-env/lib/index.js\",{\"loose\":true,\"uglify\":true,\"modules\":\"commonjs\",\"targets\":{\"browsers\":[\"> 1%\",\"last 2 versions\",\"IE >= 9\"]},\"exclude\":[\"transform-regenerator\",\"transform-es2015-typeof-symbol\"]}],\"/Users/ernieyang09/Desktop/workspace/gatsby-blog/node_modules/babel-preset-stage-0/lib/index.js\",\"/Users/ernieyang09/Desktop/workspace/gatsby-blog/node_modules/babel-preset-react/lib/index.js\"],\"cacheDirectory\":true}!./src/pages/about/index.jsx") })
+	        }
+	      });
+	     }
+	    
+
+/***/ }),
+
 /***/ "./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=component---src-pages-index-js!./src/pages/index.js":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2034,4 +2084,4 @@ webpackJsonp([15178676390636814000],{
 /***/ })
 
 });
-//# sourceMappingURL=app-1aecc31ccbf0b7787513.js.map
+//# sourceMappingURL=app-0e72b0d8e82821e3727e.js.map
