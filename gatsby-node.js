@@ -3,12 +3,15 @@ const Promise = require("bluebird")
 const path = require("path")
 const select = require(`unist-util-select`)
 const fs = require(`fs-extra`)
+const config = require(`./src/config`)
 
 exports.createPages = ({ graphql, boundActionCreators }) => {
   const { createPage } = boundActionCreators
+  console.log(boundActionCreators)
 
   return new Promise((resolve, reject) => {
     const pages = []
+    const test = path.resolve("./src/pages/index.js")
     const blogPost = path.resolve("./src/templates/Posts.jsx")
     const tagPages = path.resolve("./src/templates/tag-page.jsx")
     resolve(
@@ -37,7 +40,8 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
           reject(result.errors)
         }
         // Create blog posts pages.
-        _.each(result.data.allMarkdownRemark.edges, edge => {
+        _.each(result.data.allMarkdownRemark.edges, (edge, index) => {
+
           createPage({
             path: edge.node.fields.slug,
             component: blogPost,
@@ -46,6 +50,19 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
               slug: edge.node.fields.slug,
             },
           })
+
+          if(index >= config.paginations && (index % config.paginations === 0)) {
+            createPage({
+              path: `/${index / config.paginations}`,
+              component: test,
+              // Query variable for index
+              context: {
+                offset: index,
+                paginations: config.paginations,
+              },
+            })
+          }
+
         })
 
         // Tag pages.
