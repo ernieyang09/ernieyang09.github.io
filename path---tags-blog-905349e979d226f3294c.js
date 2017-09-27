@@ -1,2 +1,0 @@
-webpackJsonp([0x105974438a886c00],{"./node_modules/json-loader/index.js!./.cache/json/tags-blog.json":function(t,e){t.exports={data:{site:{siteMetadata:{title:"前端小誌",author:"Ernie Yang"}},allMarkdownRemark:{edges:[{node:{fields:{slug:"/posts/first-post/"},frontmatter:{title:"使用gatsby做自己的blog",date:"2017-07-26T22:06"}}}]}},pathContext:{tag:"blog"}}}});
-//# sourceMappingURL=path---tags-blog-905349e979d226f3294c.js.map

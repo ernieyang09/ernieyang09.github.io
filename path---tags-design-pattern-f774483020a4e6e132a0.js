@@ -1,2 +1,0 @@
-webpackJsonp([0xd9eb1651d7f31800],{"./node_modules/json-loader/index.js!./.cache/json/tags-design-pattern.json":function(e,t){e.exports={data:{site:{siteMetadata:{title:"前端小誌",author:"Ernie Yang"}},allMarkdownRemark:{edges:[{node:{fields:{slug:"/posts/connect_n_di/"},frontmatter:{title:"DI & React HOC &....",date:"2017-09-02T00:35"}}}]}},pathContext:{tag:"Design Pattern"}}}});
-//# sourceMappingURL=path---tags-design-pattern-f774483020a4e6e132a0.js.map
