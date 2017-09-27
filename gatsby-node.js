@@ -6,8 +6,8 @@ const fs = require(`fs-extra`)
 const config = require(`./src/config`)
 
 exports.createPages = ({ graphql, boundActionCreators }) => {
-  const { createPage } = boundActionCreators
-  console.log(boundActionCreators)
+
+  const { createPage } = boundActionCreators;
 
   return new Promise((resolve, reject) => {
     const pages = []
@@ -89,8 +89,21 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
   })
 }
 
+exports.onCreatePage = ({ page, boundActionCreators }) => {
+  return new Promise((resolve, reject)=> {
+    if (page.path === '/') {
+      page.context = {
+        offset: 0,
+        paginations: config.paginations,
+      }
+    }
+    resolve();
+  })
+};
+
 exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
-  const { createNodeField } = boundActionCreators
+
+  const { createNodeField } = boundActionCreators;
 
   return new Promise((resolve, reject) => {
     let slug;

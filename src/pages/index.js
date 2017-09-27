@@ -5,6 +5,7 @@ import { PostItem } from "../components/PostItem/"
 
 export default class Index extends React.Component {
   render() {
+    // console.log(this.props)
     const posts = this.props.data.allMarkdownRemark.edges;
     return (
       <div className='content-container'>
@@ -17,9 +18,10 @@ export default class Index extends React.Component {
 }
 
 export const pageQuery = graphql`
-  query IndexQuery {
+  query IndexQuery($offset: Int, $paginations: Int) {
     allMarkdownRemark(
-      limit: 10
+      skip: $offset
+      limit: $paginations
       sort: { fields: [frontmatter___date], order: DESC }
       filter: {frontmatter: { release: {eq: true} } }
     ) {
