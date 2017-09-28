@@ -8,6 +8,10 @@
       "path---posts-session-n-token-dc46746a5a9c5152cf95.js",
       "path---posts-session-n-token-dc46746a5a9c5152cf95.js.map"
     ],
+    "component---src-pages-about-index-js": [
+      "component---src-pages-about-index-js-895582bccea52ea63c43.js",
+      "component---src-pages-about-index-js-895582bccea52ea63c43.js.map"
+    ],
     "path---posts-redux-dev-tool": [
       "path---posts-redux-dev-tool-be17ab0b18bcbee315e7.js",
       "path---posts-redux-dev-tool-be17ab0b18bcbee315e7.js.map"
@@ -25,12 +29,12 @@
       "path---tags-aws-1eeb8cdad4485d4b17c6.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-35b7849d4344a2d3dd48.js",
-      "component---src-pages-index-js-35b7849d4344a2d3dd48.js.map"
+      "component---src-pages-index-js-7654da2b513d2b0a8241.js",
+      "component---src-pages-index-js-7654da2b513d2b0a8241.js.map"
     ],
     "path---1": [
-      "path---1-63c63e63239df3e3c4ca.js",
-      "path---1-63c63e63239df3e3c4ca.js.map"
+      "path---1-e0d247a93774c38dcde3.js",
+      "path---1-e0d247a93774c38dcde3.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -72,10 +76,6 @@
       "path---posts-hoc-n-decorator-a0522ad63efb69a9a6ef.js",
       "path---posts-hoc-n-decorator-a0522ad63efb69a9a6ef.js.map"
     ],
-    "component---src-pages-about-index-jsx": [
-      "component---src-pages-about-index-jsx-df93018b94b6fc87c23a.js",
-      "component---src-pages-about-index-jsx-df93018b94b6fc87c23a.js.map"
-    ],
     "path---tags-promise": [
       "path---tags-promise-abe1d3242bc1a19e2d8d.js",
       "path---tags-promise-abe1d3242bc1a19e2d8d.js.map"
@@ -84,13 +84,21 @@
       "path---posts-first-post-26af79e8adb1563e7cea.js",
       "path---posts-first-post-26af79e8adb1563e7cea.js.map"
     ],
+    "component---src-pages-about-about-jsx": [
+      "component---src-pages-about-about-jsx-5e4b0f57cbf38f4f52a0.js",
+      "component---src-pages-about-about-jsx-5e4b0f57cbf38f4f52a0.js.map"
+    ],
     "path---index": [
-      "path---index-a9666dede288cf950d66.js",
-      "path---index-a9666dede288cf950d66.js.map"
+      "path---index-c395b24e293cc09642c1.js",
+      "path---index-c395b24e293cc09642c1.js.map"
     ],
     "path---tags-rest": [
       "path---tags-rest-5779f60422d0a7940b02.js",
       "path---tags-rest-5779f60422d0a7940b02.js.map"
+    ],
+    "path---2": [
+      "path---2-991b693a7f577cf14c2c.js",
+      "path---2-991b693a7f577cf14c2c.js.map"
     ],
     "path---tags-redux": [
       "path---tags-redux-daba269283c70c728516.js",
@@ -121,9 +129,9 @@
       "path---posts-react-context-b082156b958f3cfa487b.js.map"
     ],
     "app": [
-      "app-3ec28a3bae531b087800.js",
+      "app-c7aa17eec58a015feb64.js",
       "build-js-styles.css",
-      "app-3ec28a3bae531b087800.js.map",
+      "app-c7aa17eec58a015feb64.js.map",
       "build-js-styles.css.map"
     ],
     "path---posts-sass-signup-flow": [
@@ -138,6 +146,10 @@
       "path---tags-authorization-25001094509af91bfda6.js",
       "path---tags-authorization-25001094509af91bfda6.js.map"
     ],
+    "path---about-about": [
+      "path---about-about-a0e39f21c11f6a62c5ab.js",
+      "path---about-about-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
@@ -147,8 +159,8 @@
       "path---posts-redux-middleware-64414d3831fe6b5d7f39.js.map"
     ],
     "path---posts-aws-s-3-cdn-53": [
-      "path---posts-aws-s-3-cdn-53-0d137dcb82f3b675d57e.js",
-      "path---posts-aws-s-3-cdn-53-0d137dcb82f3b675d57e.js.map"
+      "path---posts-aws-s-3-cdn-53-9d527a5dca7a68283109.js",
+      "path---posts-aws-s-3-cdn-53-9d527a5dca7a68283109.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
