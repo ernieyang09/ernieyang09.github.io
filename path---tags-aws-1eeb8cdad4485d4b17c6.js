@@ -1,0 +1,2 @@
+webpackJsonp([32765110312016],{"./node_modules/json-loader/index.js!./.cache/json/tags-aws.json":function(t,e){t.exports={data:{site:{siteMetadata:{title:"前端小誌",author:"Ernie Yang"}},allMarkdownRemark:{edges:[{node:{fields:{slug:"/posts/aws-s3-cdn-53/"},frontmatter:{title:"AWS簡略記",date:"2018-09-28T21:49"}}}]}},pathContext:{tag:"AWS"}}}});
+//# sourceMappingURL=path---tags-aws-1eeb8cdad4485d4b17c6.js.map
