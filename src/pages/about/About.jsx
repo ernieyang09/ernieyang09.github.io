@@ -1,5 +1,4 @@
 import React from "react"
-import Link from "gatsby-link"
 import Helmet from "react-helmet"
 
 import './about.scss';
@@ -21,9 +20,9 @@ export default class About extends React.Component {
           <h4>連結</h4>
           <dl>
           <dt className='text-upper'>Profolio:</dt>
-          <dd><a href='https://ernieyang09.github.io/Portfolio'>https://ernieyang09.github.io/Portfolio/</a></dd>
+          <dd><a href='https://ernieyang09.github.io/Portfolio' target='_blank'>https://ernieyang09.github.io/Portfolio/</a></dd>
           <dt className='text-upper'>github:</dt>
-          <dd><a href='https://ernieyang09.github.io/Portfolio'>https://github.com/ernieyang09/</a></dd>
+          <dd><a href='https://github.com/ernieyang09' target='_blank'>https://github.com/ernieyang09/</a></dd>
           </dl>
           <br/><br/>
           <h4>寫寫BLOG</h4>
