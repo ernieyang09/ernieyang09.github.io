@@ -47,9 +47,7 @@ export default class Nav extends React.Component {
     return (
       <Wrapper>
         <NavLink className={cx({active:page==='/'})} to='/'>首頁</NavLink>
-        <NavLink className={cx({active:page==='/archives'})}  to='/archives'>文章</NavLink>
         <NavLink className={cx({active:page==='/about'})}  to='/about'>關於我</NavLink>
-        <NavLink className={cx({active:page==='/donations'})}  to='/donations'>贊助</NavLink>
       </Wrapper>
     )
   }
