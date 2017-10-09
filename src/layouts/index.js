@@ -40,7 +40,7 @@ export default class Template extends React.Component {
 
   render() {
     return (
-      <Wrapper className='col-sm-11 col-lg-12'>
+      <Wrapper className='col-lg-12'>
         <Helmet
           title="前端小誌"
           meta={[
@@ -50,7 +50,7 @@ export default class Template extends React.Component {
           ]}
         />
         <Header path={this.props.location.pathname} />
-        <div style={{display:'flex'}}>
+        <div style={{display:'flex', flexWrap: 'wrap'}}>
         {this.props.children()}
         <Aside />
         </div>

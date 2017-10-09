@@ -1,7 +1,7 @@
 html {
   max-width: 1150px;
   margin: 0 auto;
-  padding: 0 60px;
+  padding: 0 30px;
   /*font-family: "Segoe UI", "Lucida Grande", Helvetica, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", Arial, sans-serif;*/
   font-family: source-han-serif-tc, serif;
   font-size:14px;
@@ -21,4 +21,25 @@ h1,h2,h3,h4,h5,h6 {
 
 .text-upper {
   text-transform: uppercase;
+}
+
+.aside {
+  flex-basis: 215px;
+  border-left: 1px solid #ddd;
+  padding-left: 35px;
+  color: #6E7173;
+}
+
+
+@media screen and (max-width: 48em) {
+  .content-container {
+    min-Width:auto;
+    margin-right: 0;
+  }
+
+  .aside {
+    margin-top:20px;
+    width: 100%;
+    flex-basis: auto;
+  }
 }
