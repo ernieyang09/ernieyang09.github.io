@@ -33,8 +33,8 @@
       "component---src-pages-index-js-7654da2b513d2b0a8241.js.map"
     ],
     "path---1": [
-      "path---1-6af54495ff947c439ecc.js",
-      "path---1-6af54495ff947c439ecc.js.map"
+      "path---1-b27cf8f7ec9278904649.js",
+      "path---1-b27cf8f7ec9278904649.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -57,8 +57,8 @@
       "path---posts-map-eventhandler-72919c3cd15a7fb242c0.js.map"
     ],
     "path---tags-react": [
-      "path---tags-react-8b7537aecc47d27b1297.js",
-      "path---tags-react-8b7537aecc47d27b1297.js.map"
+      "path---tags-react-d95f115fcfd407bf022b.js",
+      "path---tags-react-d95f115fcfd407bf022b.js.map"
     ],
     "path---posts-1007": [
       "path---posts-1007-6039631b8d12a9db15c6.js",
@@ -97,16 +97,16 @@
       "component---src-pages-about-about-jsx-82cc2557501fe90f0749.js.map"
     ],
     "path---index": [
-      "path---index-b29a13ea83faef7d886c.js",
-      "path---index-b29a13ea83faef7d886c.js.map"
+      "path---index-4b34de8408b0f6147fe2.js",
+      "path---index-4b34de8408b0f6147fe2.js.map"
     ],
     "path---tags-rest": [
       "path---tags-rest-5779f60422d0a7940b02.js",
       "path---tags-rest-5779f60422d0a7940b02.js.map"
     ],
     "path---2": [
-      "path---2-cc4e8d4745f129b9170b.js",
-      "path---2-cc4e8d4745f129b9170b.js.map"
+      "path---2-bebcdd9bfa1a63df6f71.js",
+      "path---2-bebcdd9bfa1a63df6f71.js.map"
     ],
     "path---tags-redux": [
       "path---tags-redux-daba269283c70c728516.js",
@@ -128,6 +128,10 @@
       "path---tags-webpack-554ddd89752ccf47c63d.js",
       "path---tags-webpack-554ddd89752ccf47c63d.js.map"
     ],
+    "path---posts-0112-faster-component": [
+      "path---posts-0112-faster-component-1f8fa8c1a6af0b298284.js",
+      "path---posts-0112-faster-component-1f8fa8c1a6af0b298284.js.map"
+    ],
     "path---posts-1017-react-decision": [
       "path---posts-1017-react-decision-f0ea8a2dfd55eaed7cfd.js",
       "path---posts-1017-react-decision-f0ea8a2dfd55eaed7cfd.js.map"
@@ -145,9 +149,9 @@
       "path---posts-react-context-98f8de4df444c8607773.js.map"
     ],
     "app": [
-      "app-fb002ff0273975eb42b0.js",
+      "app-a1c3cfddf33698e658e2.js",
       "build-js-styles.css",
-      "app-fb002ff0273975eb42b0.js.map",
+      "app-a1c3cfddf33698e658e2.js.map",
       "build-js-styles.css.map"
     ],
     "path---posts-sass-signup-flow": [
