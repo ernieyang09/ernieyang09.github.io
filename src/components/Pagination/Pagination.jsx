@@ -14,7 +14,7 @@ const PaginationBtn = styled(Link)`
 
 export default class Pagination extends React.Component {
   render() {
-    const pages = Math.ceil(13 / 6);
+    const pages = Math.ceil(this.props.total / this.props.paginations);
 
     return (
       <PaginationWrap>
