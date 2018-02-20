@@ -37,6 +37,7 @@ export default class Nav extends React.Component {
       switch(this.props.page) {
         case "/archives":
         case "/about":
+        case "/todo":
         case "/donations":
           return this.props.page;
         default:
@@ -48,6 +49,7 @@ export default class Nav extends React.Component {
       <Wrapper>
         <NavLink className={cx({active:page==='/'})} to='/'>首頁</NavLink>
         <NavLink className={cx({active:page==='/about'})}  to='/about'>關於我</NavLink>
+        <NavLink className={cx({active:page==='/todo'})}  to='/todo'>TODO</NavLink>
       </Wrapper>
     )
   }
