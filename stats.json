@@ -9,8 +9,8 @@
       "path---posts-session-n-token-dc46746a5a9c5152cf95.js.map"
     ],
     "component---src-pages-about-index-js": [
-      "component---src-pages-about-index-js-b5f81c63f6ecafe2f563.js",
-      "component---src-pages-about-index-js-b5f81c63f6ecafe2f563.js.map"
+      "component---src-pages-about-index-js-23f96709ded06ef6c120.js",
+      "component---src-pages-about-index-js-23f96709ded06ef6c120.js.map"
     ],
     "path---posts-redux-dev-tool": [
       "path---posts-redux-dev-tool-0336b69c5c92ced81b13.js",
@@ -33,16 +33,16 @@
       "path---tags-aws-2e06c4106da9ffd35bdc.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-c80f898ee4fccda8d7d9.js",
-      "component---src-pages-index-js-c80f898ee4fccda8d7d9.js.map"
+      "component---src-pages-index-js-9f7771c9a5ebe1960378.js",
+      "component---src-pages-index-js-9f7771c9a5ebe1960378.js.map"
     ],
     "path---posts-undefined": [
       "path---posts-undefined-b9e869ce06c3c038fba1.js",
       "path---posts-undefined-b9e869ce06c3c038fba1.js.map"
     ],
     "path---1": [
-      "path---1-f524626937b8a5aa6231.js",
-      "path---1-f524626937b8a5aa6231.js.map"
+      "path---1-db688be850577790c0d9.js",
+      "path---1-db688be850577790c0d9.js.map"
     ],
     "path---posts-circular-dependency-plugin": [
       "path---posts-circular-dependency-plugin-2cd1a678212c63022b33.js",
@@ -60,6 +60,10 @@
       "path---tags-async-1bbb0745f490ad6b199a.js",
       "path---tags-async-1bbb0745f490ad6b199a.js.map"
     ],
+    "component---src-pages-todo-index-js": [
+      "component---src-pages-todo-index-js-413472472f740ada4014.js",
+      "component---src-pages-todo-index-js-413472472f740ada4014.js.map"
+    ],
     "path---tags-javascript": [
       "path---tags-javascript-31820afe037e24c6b229.js",
       "path---tags-javascript-31820afe037e24c6b229.js.map"
@@ -72,9 +76,17 @@
       "path---posts-map-eventhandler-72919c3cd15a7fb242c0.js",
       "path---posts-map-eventhandler-72919c3cd15a7fb242c0.js.map"
     ],
+    "path---todo-todo": [
+      "path---todo-todo-a0e39f21c11f6a62c5ab.js",
+      "path---todo-todo-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "path---tags-react": [
       "path---tags-react-4433e684f482d8b4c9e7.js",
       "path---tags-react-4433e684f482d8b4c9e7.js.map"
+    ],
+    "path---tags-nothing-special": [
+      "path---tags-nothing-special-0ed18762eefebcc39c95.js",
+      "path---tags-nothing-special-0ed18762eefebcc39c95.js.map"
     ],
     "path---tags-ui-ux": [
       "path---tags-ui-ux-e0eef163c87227052453.js",
@@ -84,9 +96,13 @@
       "path---posts-react-setstate-71cb2b6529bb02a88802.js",
       "path---posts-react-setstate-71cb2b6529bb02a88802.js.map"
     ],
+    "path---todo": [
+      "path---todo-a0e39f21c11f6a62c5ab.js",
+      "path---todo-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-677a35599fd64fa23ac8.js",
-      "component---src-layouts-index-js-677a35599fd64fa23ac8.js.map"
+      "component---src-layouts-index-js-d63edb42a8e77d78e7e9.js",
+      "component---src-layouts-index-js-d63edb42a8e77d78e7e9.js.map"
     ],
     "path---posts-aws-s-3-plugin": [
       "path---posts-aws-s-3-plugin-df0fad71e9a38715ddb7.js",
@@ -105,20 +121,20 @@
       "path---posts-first-post-26af79e8adb1563e7cea.js.map"
     ],
     "component---src-pages-about-about-jsx": [
-      "component---src-pages-about-about-jsx-82cc2557501fe90f0749.js",
-      "component---src-pages-about-about-jsx-82cc2557501fe90f0749.js.map"
+      "component---src-pages-about-about-jsx-a6a99503465dae1f9689.js",
+      "component---src-pages-about-about-jsx-a6a99503465dae1f9689.js.map"
     ],
     "path---index": [
-      "path---index-09d204f0ac9ab4e6945e.js",
-      "path---index-09d204f0ac9ab4e6945e.js.map"
+      "path---index-115e0507b44d154cf2c2.js",
+      "path---index-115e0507b44d154cf2c2.js.map"
     ],
     "path---tags-rest": [
       "path---tags-rest-5779f60422d0a7940b02.js",
       "path---tags-rest-5779f60422d0a7940b02.js.map"
     ],
     "path---2": [
-      "path---2-abd43006542f218388f7.js",
-      "path---2-abd43006542f218388f7.js.map"
+      "path---2-30cf149ec0c2c35f98ea.js",
+      "path---2-30cf149ec0c2c35f98ea.js.map"
     ],
     "path---tags-redux": [
       "path---tags-redux-daba269283c70c728516.js",
@@ -129,8 +145,8 @@
       "component---src-pages-404-js-395a01dbcea2c83d7cc8.js.map"
     ],
     "commons": [
-      "commons-cb5546ef6a5d085a4bbe.js",
-      "commons-cb5546ef6a5d085a4bbe.js.map"
+      "commons-842df26c5f2e9bb093ce.js",
+      "commons-842df26c5f2e9bb093ce.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -141,25 +157,29 @@
       "path---tags-webpack-969fa053c9bf6d51b389.js.map"
     ],
     "path---3": [
-      "path---3-7bdf2af84518d707f328.js",
-      "path---3-7bdf2af84518d707f328.js.map"
+      "path---3-2e89705dcb31b133d973.js",
+      "path---3-2e89705dcb31b133d973.js.map"
     ],
     "path---posts-dont-release-zalgo": [
       "path---posts-dont-release-zalgo-ba5215407aa745c3ef67.js",
       "path---posts-dont-release-zalgo-ba5215407aa745c3ef67.js.map"
     ],
+    "component---src-pages-todo-todo-jsx": [
+      "component---src-pages-todo-todo-jsx-728b103c7ac0052603b8.js",
+      "component---src-pages-todo-todo-jsx-728b103c7ac0052603b8.js.map"
+    ],
     "component---src-templates-posts-jsx": [
-      "component---src-templates-posts-jsx-9937ac0b672c19168cf7.js",
-      "component---src-templates-posts-jsx-9937ac0b672c19168cf7.js.map"
+      "component---src-templates-posts-jsx-d62f2b5deb1d7265deb0.js",
+      "component---src-templates-posts-jsx-d62f2b5deb1d7265deb0.js.map"
     ],
     "path---posts-react-context": [
       "path---posts-react-context-98f8de4df444c8607773.js",
       "path---posts-react-context-98f8de4df444c8607773.js.map"
     ],
     "app": [
-      "app-26a0ee1fd182c49b0c20.js",
+      "app-1271c49ffb55d993e514.js",
       "build-js-styles.css",
-      "app-26a0ee1fd182c49b0c20.js.map",
+      "app-1271c49ffb55d993e514.js.map",
       "build-js-styles.css.map"
     ],
     "path---posts-sass-signup-flow": [
@@ -177,6 +197,10 @@
     "path---tags-authorization": [
       "path---tags-authorization-25001094509af91bfda6.js",
       "path---tags-authorization-25001094509af91bfda6.js.map"
+    ],
+    "path---posts-new-year-wish": [
+      "path---posts-new-year-wish-2a23ab350001cfb5bbb9.js",
+      "path---posts-new-year-wish-2a23ab350001cfb5bbb9.js.map"
     ],
     "path---about-about": [
       "path---about-about-a0e39f21c11f6a62c5ab.js",
@@ -207,8 +231,8 @@
       "path---about-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-templates-tag-page-jsx": [
-      "component---src-templates-tag-page-jsx-d2c1e284fde94fc838bc.js",
-      "component---src-templates-tag-page-jsx-d2c1e284fde94fc838bc.js.map"
+      "component---src-templates-tag-page-jsx-6b9f729d50b661c47b08.js",
+      "component---src-templates-tag-page-jsx-6b9f729d50b661c47b08.js.map"
     ]
   }
 }
