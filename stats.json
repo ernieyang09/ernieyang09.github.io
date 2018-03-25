@@ -41,8 +41,8 @@
       "path---posts-undefined-b9e869ce06c3c038fba1.js.map"
     ],
     "path---1": [
-      "path---1-db688be850577790c0d9.js",
-      "path---1-db688be850577790c0d9.js.map"
+      "path---1-f71861b8d3f918cc88a4.js",
+      "path---1-f71861b8d3f918cc88a4.js.map"
     ],
     "path---posts-circular-dependency-plugin": [
       "path---posts-circular-dependency-plugin-2cd1a678212c63022b33.js",
@@ -61,8 +61,8 @@
       "path---tags-async-1bbb0745f490ad6b199a.js.map"
     ],
     "component---src-pages-todo-index-js": [
-      "component---src-pages-todo-index-js-413472472f740ada4014.js",
-      "component---src-pages-todo-index-js-413472472f740ada4014.js.map"
+      "component---src-pages-todo-index-js-98591bc996f86048d69b.js",
+      "component---src-pages-todo-index-js-98591bc996f86048d69b.js.map"
     ],
     "path---tags-javascript": [
       "path---tags-javascript-31820afe037e24c6b229.js",
@@ -125,20 +125,24 @@
       "component---src-pages-about-about-jsx-a6a99503465dae1f9689.js.map"
     ],
     "path---index": [
-      "path---index-115e0507b44d154cf2c2.js",
-      "path---index-115e0507b44d154cf2c2.js.map"
+      "path---index-bfe685ff0573a68248d9.js",
+      "path---index-bfe685ff0573a68248d9.js.map"
     ],
     "path---tags-rest": [
       "path---tags-rest-5779f60422d0a7940b02.js",
       "path---tags-rest-5779f60422d0a7940b02.js.map"
     ],
     "path---2": [
-      "path---2-30cf149ec0c2c35f98ea.js",
-      "path---2-30cf149ec0c2c35f98ea.js.map"
+      "path---2-8ba39a1cea78975c7261.js",
+      "path---2-8ba39a1cea78975c7261.js.map"
     ],
     "path---tags-redux": [
       "path---tags-redux-daba269283c70c728516.js",
       "path---tags-redux-daba269283c70c728516.js.map"
+    ],
+    "path---posts-javascript-event-loop": [
+      "path---posts-javascript-event-loop-20199fd915f36130797a.js",
+      "path---posts-javascript-event-loop-20199fd915f36130797a.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-395a01dbcea2c83d7cc8.js",
@@ -157,16 +161,16 @@
       "path---tags-webpack-969fa053c9bf6d51b389.js.map"
     ],
     "path---3": [
-      "path---3-2e89705dcb31b133d973.js",
-      "path---3-2e89705dcb31b133d973.js.map"
+      "path---3-0e9f42653e4432ae0967.js",
+      "path---3-0e9f42653e4432ae0967.js.map"
     ],
     "path---posts-dont-release-zalgo": [
       "path---posts-dont-release-zalgo-ba5215407aa745c3ef67.js",
       "path---posts-dont-release-zalgo-ba5215407aa745c3ef67.js.map"
     ],
     "component---src-pages-todo-todo-jsx": [
-      "component---src-pages-todo-todo-jsx-728b103c7ac0052603b8.js",
-      "component---src-pages-todo-todo-jsx-728b103c7ac0052603b8.js.map"
+      "component---src-pages-todo-todo-jsx-179f920c4829ef31be1d.js",
+      "component---src-pages-todo-todo-jsx-179f920c4829ef31be1d.js.map"
     ],
     "component---src-templates-posts-jsx": [
       "component---src-templates-posts-jsx-d62f2b5deb1d7265deb0.js",
@@ -177,10 +181,14 @@
       "path---posts-react-context-98f8de4df444c8607773.js.map"
     ],
     "app": [
-      "app-1271c49ffb55d993e514.js",
+      "app-d7c61f0a826e3825ed9c.js",
       "build-js-styles.css",
-      "app-1271c49ffb55d993e514.js.map",
+      "app-d7c61f0a826e3825ed9c.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---tags-performance-tuning": [
+      "path---tags-performance-tuning-9ef95593994d585f39de.js",
+      "path---tags-performance-tuning-9ef95593994d585f39de.js.map"
     ],
     "path---posts-sass-signup-flow": [
       "path---posts-sass-signup-flow-b1bc62d9e77961802f01.js",
