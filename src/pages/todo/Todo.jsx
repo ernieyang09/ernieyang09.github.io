@@ -24,6 +24,9 @@ export default class Todo extends React.Component {
             <li>Reactive JS & redux-observable</li>
             <li>Optimize-js-plugin</li>
             <li>Chrome dev tool(pixel rendering & painting)</li>
+            <li>React 0.16 feature</li>
+            <li>SPA & critical render path & composite layer</li>
+            <li>Functional & algorithm</li>
           </ul>
         </div>
       </div>
