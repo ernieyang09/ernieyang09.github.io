@@ -125,8 +125,8 @@
       "component---src-pages-about-about-jsx-a6a99503465dae1f9689.js.map"
     ],
     "path---index": [
-      "path---index-10b40e85d0d429dcf12d.js",
-      "path---index-10b40e85d0d429dcf12d.js.map"
+      "path---index-e7aea5d1fbf7c0d00c23.js",
+      "path---index-e7aea5d1fbf7c0d00c23.js.map"
     ],
     "path---tags-rest": [
       "path---tags-rest-5779f60422d0a7940b02.js",
@@ -139,10 +139,6 @@
     "path---tags-redux": [
       "path---tags-redux-daba269283c70c728516.js",
       "path---tags-redux-daba269283c70c728516.js.map"
-    ],
-    "path---posts-javascript-event-loop": [
-      "path---posts-javascript-event-loop-be88839d155c060a1d2f.js",
-      "path---posts-javascript-event-loop-be88839d155c060a1d2f.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-395a01dbcea2c83d7cc8.js",
@@ -177,8 +173,8 @@
       "component---src-pages-todo-todo-jsx-c2f9adc6183b183e4d61.js.map"
     ],
     "path---tags-mechanic": [
-      "path---tags-mechanic-35732d77f6d7d744c3d3.js",
-      "path---tags-mechanic-35732d77f6d7d744c3d3.js.map"
+      "path---tags-mechanic-0f183beb57403a41cc07.js",
+      "path---tags-mechanic-0f183beb57403a41cc07.js.map"
     ],
     "component---src-templates-posts-jsx": [
       "component---src-templates-posts-jsx-d62f2b5deb1d7265deb0.js",
@@ -189,9 +185,9 @@
       "path---posts-react-context-98f8de4df444c8607773.js.map"
     ],
     "app": [
-      "app-855b2bb77a22c71bd120.js",
+      "app-208aa08e45c58dc4c171.js",
       "build-js-styles.css",
-      "app-855b2bb77a22c71bd120.js.map",
+      "app-208aa08e45c58dc4c171.js.map",
       "build-js-styles.css.map"
     ],
     "path---tags-performance-tuning": [
@@ -205,6 +201,10 @@
     "path---tags-design-pattern": [
       "path---tags-design-pattern-0f1919927d55d670716e.js",
       "path---tags-design-pattern-0f1919927d55d670716e.js.map"
+    ],
+    "path---posts-javascript-context": [
+      "path---posts-javascript-context-b33e9a10ce401ff7d858.js",
+      "path---posts-javascript-context-b33e9a10ce401ff7d858.js.map"
     ],
     "path---posts-react-setstate-2": [
       "path---posts-react-setstate-2-6ffc63ec0fcb14930045.js",
