@@ -23,7 +23,7 @@ export default class Pagination extends React.Component {
             page === 0 ?
               <PaginationBtn key={page} to='/'>0</PaginationBtn>
             :
-              <PaginationBtn key={page} to={page}>{page}</PaginationBtn>
+              <PaginationBtn key={page} to={`/${page}`}>{page}</PaginationBtn>
           ))
         }
       </PaginationWrap>
