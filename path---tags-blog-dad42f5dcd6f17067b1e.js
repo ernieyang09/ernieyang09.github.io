@@ -1,2 +1,2 @@
-webpackJsonp([17976388717192],{"./node_modules/json-loader/index.js!./.cache/json/tags-blog.json":function(t,e){t.exports={data:{site:{siteMetadata:{title:"前端小誌",author:"Ernie Yang"}},allMarkdownRemark:{edges:[{node:{fields:{slug:"/posts/first-post/"},frontmatter:{title:"使用gatsby做自己的blog",date:"2017-07-26T22:06"}}}]}},pathContext:{tag:"blog"}}}});
+webpackJsonp([17976388717192],{478:function(t,a){t.exports={data:{site:{siteMetadata:{title:"前端小誌",author:"Ernie Yang"}},allMarkdownRemark:{edges:[{node:{fields:{slug:"/posts/first-post/"},frontmatter:{title:"使用gatsby做自己的blog",date:"2017-07-26T22:06"}}}]}},pathContext:{tag:"blog"}}}});
 //# sourceMappingURL=path---tags-blog-dad42f5dcd6f17067b1e.js.map
