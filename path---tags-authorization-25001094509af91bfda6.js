@@ -1,2 +1,2 @@
-webpackJsonp([0xe407c1c5c3ba],{476:function(t,e){t.exports={data:{site:{siteMetadata:{title:"前端小誌",author:"Ernie Yang"}},allMarkdownRemark:{edges:[{node:{fields:{slug:"/posts/session_n_token/"},frontmatter:{title:"SPA, Session vs Token-based認證",date:"2017-08-12T19:07"}}}]}},pathContext:{tag:"Authorization"}}}});
+webpackJsonp([0xe407c1c5c3ba],{478:function(t,e){t.exports={data:{site:{siteMetadata:{title:"前端小誌",author:"Ernie Yang"}},allMarkdownRemark:{edges:[{node:{fields:{slug:"/posts/session_n_token/"},frontmatter:{title:"SPA, Session vs Token-based認證",date:"2017-08-12T19:07"}}}]}},pathContext:{tag:"Authorization"}}}});
 //# sourceMappingURL=path---tags-authorization-25001094509af91bfda6.js.map
