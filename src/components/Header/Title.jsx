@@ -42,7 +42,7 @@ export default class Title extends React.Component {
       <Wrapper>
         <TitleLink>
           <Link to="/">
-            前端小誌
+            前端小誌(轉型中)
           </Link>
         </TitleLink>
         <H4>一個用來記錄人老會忘記的地方</H4>

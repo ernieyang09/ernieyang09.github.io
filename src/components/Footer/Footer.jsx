@@ -15,7 +15,7 @@ export default class Footer extends React.Component {
   render() {
     return (
       <Wrapper>
-        © 2018 ernieyang
+        © 2019 Ernie Yang
       </Wrapper>
     )
   }

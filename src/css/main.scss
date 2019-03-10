@@ -33,13 +33,14 @@ h1,h2,h3,h4,h5,h6 {
 
 @media screen and (max-width: 48em) {
   .content-container {
-    min-Width:auto;
     margin-right: 0;
   }
 
   .aside {
     margin-top:20px;
     width: 100%;
+    padding-left: 1px;
+    border-left: none;
     flex-basis: auto;
   }
 }
