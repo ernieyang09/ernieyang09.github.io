@@ -1,2 +1,2 @@
-webpackJsonp([32765110312016],{479:function(t,a){t.exports={data:{site:{siteMetadata:{title:"前端小誌",author:"Ernie Yang"}},allMarkdownRemark:{edges:[{node:{fields:{slug:"/posts/aws-s3-cdn-53/"},frontmatter:{title:"AWS簡略記",date:"2017-09-28T21:49"}}}]}},pathContext:{tag:"AWS"}}}});
+webpackJsonp([32765110312016],{482:function(t,a){t.exports={data:{site:{siteMetadata:{title:"前端小誌",author:"Ernie Yang"}},allMarkdownRemark:{edges:[{node:{fields:{slug:"/posts/aws-s3-cdn-53/"},frontmatter:{title:"AWS簡略記",date:"2017-09-28T21:49"}}}]}},pathContext:{tag:"AWS"}}}});
 //# sourceMappingURL=path---tags-aws-2e06c4106da9ffd35bdc.js.map

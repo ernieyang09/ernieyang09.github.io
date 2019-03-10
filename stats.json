@@ -8,6 +8,10 @@
       "path---posts-session-n-token-dc46746a5a9c5152cf95.js",
       "path---posts-session-n-token-dc46746a5a9c5152cf95.js.map"
     ],
+    "path---tags-python": [
+      "path---tags-python-47006a9516a31e67d380.js",
+      "path---tags-python-47006a9516a31e67d380.js.map"
+    ],
     "component---src-pages-about-index-js": [
       "component---src-pages-about-index-js-23f96709ded06ef6c120.js",
       "component---src-pages-about-index-js-23f96709ded06ef6c120.js.map"
@@ -21,8 +25,8 @@
       "path---tags-blog-dad42f5dcd6f17067b1e.js.map"
     ],
     "path---4": [
-      "path---4-c85747ab250d0e3f4070.js",
-      "path---4-c85747ab250d0e3f4070.js.map"
+      "path---4-d8a811d173801298a25e.js",
+      "path---4-d8a811d173801298a25e.js.map"
     ],
     "path---posts-script-after-body": [
       "path---posts-script-after-body-273cb8b82e281a99e166.js",
@@ -49,8 +53,8 @@
       "component---src-pages-index-js-f49d87235203e09c443f.js.map"
     ],
     "path---1": [
-      "path---1-5adcc7a399a0093d0b54.js",
-      "path---1-5adcc7a399a0093d0b54.js.map"
+      "path---1-1060d689eb1d886016b1.js",
+      "path---1-1060d689eb1d886016b1.js.map"
     ],
     "path---posts-circular-dependency-plugin": [
       "path---posts-circular-dependency-plugin-58f37a4469492f69fdc0.js",
@@ -109,8 +113,8 @@
       "path---todo-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-f3895a511ed4cb0ed06f.js",
-      "component---src-layouts-index-js-f3895a511ed4cb0ed06f.js.map"
+      "component---src-layouts-index-js-8574ca061bdcd809a5fd.js",
+      "component---src-layouts-index-js-8574ca061bdcd809a5fd.js.map"
     ],
     "path---posts-aws-s-3-plugin": [
       "path---posts-aws-s-3-plugin-756a48b6d222049c6b6a.js",
@@ -132,17 +136,21 @@
       "component---src-pages-about-about-jsx-a6a99503465dae1f9689.js",
       "component---src-pages-about-about-jsx-a6a99503465dae1f9689.js.map"
     ],
+    "path---posts-python-requests-utf-8": [
+      "path---posts-python-requests-utf-8-45de5a085f50b4c5fb5c.js",
+      "path---posts-python-requests-utf-8-45de5a085f50b4c5fb5c.js.map"
+    ],
     "path---index": [
-      "path---index-14d55be14fdd7056a890.js",
-      "path---index-14d55be14fdd7056a890.js.map"
+      "path---index-a28854e5187c7e8a09c6.js",
+      "path---index-a28854e5187c7e8a09c6.js.map"
     ],
     "path---tags-rest": [
       "path---tags-rest-5779f60422d0a7940b02.js",
       "path---tags-rest-5779f60422d0a7940b02.js.map"
     ],
     "path---2": [
-      "path---2-ddba4cdf02af1816147c.js",
-      "path---2-ddba4cdf02af1816147c.js.map"
+      "path---2-5cc92de2e253a5dbc545.js",
+      "path---2-5cc92de2e253a5dbc545.js.map"
     ],
     "path---tags-redux": [
       "path---tags-redux-daba269283c70c728516.js",
@@ -173,8 +181,8 @@
       "path---posts-browser-mechanic-049de78f9d2f12cacdcf.js.map"
     ],
     "path---3": [
-      "path---3-d11615b33f88df94a1e3.js",
-      "path---3-d11615b33f88df94a1e3.js.map"
+      "path---3-060eb7e0024e1a1bbd93.js",
+      "path---3-060eb7e0024e1a1bbd93.js.map"
     ],
     "path---posts-dont-release-zalgo": [
       "path---posts-dont-release-zalgo-d4978eee87805735d3ae.js",
@@ -197,9 +205,9 @@
       "path---posts-react-context-589f2ae1280f6220b1e6.js.map"
     ],
     "app": [
-      "app-6b5025e3f17c987c578c.js",
+      "app-ec08c0951b7a7e5af8fe.js",
       "build-js-styles.css",
-      "app-6b5025e3f17c987c578c.js.map",
+      "app-ec08c0951b7a7e5af8fe.js.map",
       "build-js-styles.css.map"
     ],
     "path---tags-performance-tuning": [
