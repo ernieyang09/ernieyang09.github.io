@@ -1,2 +1,2 @@
-webpackJsonp([85230133447949],{491:function(t,e){t.exports={data:{site:{siteMetadata:{title:"前端小誌",author:"Ernie Yang"}},allMarkdownRemark:{edges:[{node:{fields:{slug:"/posts/new-year-wish/"},frontmatter:{title:"New Year Wish",date:"2018-02-20T18:06"}}}]}},pathContext:{tag:"nothing special"}}}});
+webpackJsonp([85230133447949],{495:function(t,e){t.exports={data:{site:{siteMetadata:{title:"前端小誌",author:"Ernie Yang"}},allMarkdownRemark:{edges:[{node:{fields:{slug:"/posts/new-year-wish/"},frontmatter:{title:"New Year Wish",date:"2018-02-20T18:06"}}}]}},pathContext:{tag:"nothing special"}}}});
 //# sourceMappingURL=path---tags-nothing-special-0ed18762eefebcc39c95.js.map

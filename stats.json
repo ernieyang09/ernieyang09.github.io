@@ -9,8 +9,12 @@
       "path---posts-session-n-token-dc46746a5a9c5152cf95.js.map"
     ],
     "path---tags-python": [
-      "path---tags-python-47006a9516a31e67d380.js",
-      "path---tags-python-47006a9516a31e67d380.js.map"
+      "path---tags-python-413e9df8bc9570d42889.js",
+      "path---tags-python-413e9df8bc9570d42889.js.map"
+    ],
+    "path---posts-python-for-loop": [
+      "path---posts-python-for-loop-abf80bfb45ef49129aad.js",
+      "path---posts-python-for-loop-abf80bfb45ef49129aad.js.map"
     ],
     "component---src-pages-about-index-js": [
       "component---src-pages-about-index-js-23f96709ded06ef6c120.js",
@@ -25,8 +29,8 @@
       "path---tags-blog-dad42f5dcd6f17067b1e.js.map"
     ],
     "path---4": [
-      "path---4-5b10a71e3367ad9795b2.js",
-      "path---4-5b10a71e3367ad9795b2.js.map"
+      "path---4-b61c821471b4eaa6107a.js",
+      "path---4-b61c821471b4eaa6107a.js.map"
     ],
     "path---posts-script-after-body": [
       "path---posts-script-after-body-273cb8b82e281a99e166.js",
@@ -53,8 +57,8 @@
       "component---src-pages-index-js-f49d87235203e09c443f.js.map"
     ],
     "path---1": [
-      "path---1-af005acee3a75e09a586.js",
-      "path---1-af005acee3a75e09a586.js.map"
+      "path---1-76e67fefcbceadbc4f4a.js",
+      "path---1-76e67fefcbceadbc4f4a.js.map"
     ],
     "path---posts-circular-dependency-plugin": [
       "path---posts-circular-dependency-plugin-58f37a4469492f69fdc0.js",
@@ -136,21 +140,25 @@
       "component---src-pages-about-about-jsx-a6a99503465dae1f9689.js",
       "component---src-pages-about-about-jsx-a6a99503465dae1f9689.js.map"
     ],
+    "path---posts-python": [
+      "path---posts-python-cb73b4e9d1a771d21d00.js",
+      "path---posts-python-cb73b4e9d1a771d21d00.js.map"
+    ],
     "path---posts-python-requests-utf-8": [
       "path---posts-python-requests-utf-8-45de5a085f50b4c5fb5c.js",
       "path---posts-python-requests-utf-8-45de5a085f50b4c5fb5c.js.map"
     ],
     "path---index": [
-      "path---index-18c1eb347dd395192e38.js",
-      "path---index-18c1eb347dd395192e38.js.map"
+      "path---index-e77adda7ba5e9818e3a9.js",
+      "path---index-e77adda7ba5e9818e3a9.js.map"
     ],
     "path---tags-rest": [
       "path---tags-rest-5779f60422d0a7940b02.js",
       "path---tags-rest-5779f60422d0a7940b02.js.map"
     ],
     "path---2": [
-      "path---2-ce3304057e7622bd0686.js",
-      "path---2-ce3304057e7622bd0686.js.map"
+      "path---2-918b2a8130a34d8c08b8.js",
+      "path---2-918b2a8130a34d8c08b8.js.map"
     ],
     "path---tags-redux": [
       "path---tags-redux-daba269283c70c728516.js",
@@ -169,8 +177,8 @@
       "commons-a07bddd5c4350f4b84cb.js.map"
     ],
     "path---tags-雜": [
-      "path---tags-雜-a75700fa9ed35df3ce74.js",
-      "path---tags-雜-a75700fa9ed35df3ce74.js.map"
+      "path---tags-雜-07aa517ad6726f671116.js",
+      "path---tags-雜-07aa517ad6726f671116.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -185,8 +193,8 @@
       "path---posts-browser-mechanic-049de78f9d2f12cacdcf.js.map"
     ],
     "path---3": [
-      "path---3-59fc51fecefc62f4d54c.js",
-      "path---3-59fc51fecefc62f4d54c.js.map"
+      "path---3-665196f3e0f77e0569eb.js",
+      "path---3-665196f3e0f77e0569eb.js.map"
     ],
     "path---posts-dont-release-zalgo": [
       "path---posts-dont-release-zalgo-d4978eee87805735d3ae.js",
@@ -213,9 +221,9 @@
       "path---posts-react-context-589f2ae1280f6220b1e6.js.map"
     ],
     "app": [
-      "app-75d07c29eb4c4c6f8549.js",
+      "app-b75de8d2a7c0eb443359.js",
       "build-js-styles.css",
-      "app-75d07c29eb4c4c6f8549.js.map",
+      "app-b75de8d2a7c0eb443359.js.map",
       "build-js-styles.css.map"
     ],
     "path---tags-performance-tuning": [
