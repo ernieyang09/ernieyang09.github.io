@@ -1,0 +1,2 @@
+webpackJsonp([0x6d424c8bbdee],{501:function(e,t){e.exports={data:{site:{siteMetadata:{title:"前端小誌",author:"Ernie Yang"}},allMarkdownRemark:{edges:[{node:{fields:{slug:"/posts/dont-release-zalgo/"},frontmatter:{title:"Don't release Zalgo!!",date:"2017-08-01T01:30"}}}]}},pathContext:{tag:"promise"}}}});
+//# sourceMappingURL=path---tags-promise-abe1d3242bc1a19e2d8d.js.map
