@@ -9,12 +9,12 @@
       "path---posts-session-n-token-dc46746a5a9c5152cf95.js.map"
     ],
     "path---tags-python": [
-      "path---tags-python-413e9df8bc9570d42889.js",
-      "path---tags-python-413e9df8bc9570d42889.js.map"
+      "path---tags-python-23e9de32701b0c4da8d8.js",
+      "path---tags-python-23e9de32701b0c4da8d8.js.map"
     ],
     "path---posts-python-for-loop": [
-      "path---posts-python-for-loop-abf80bfb45ef49129aad.js",
-      "path---posts-python-for-loop-abf80bfb45ef49129aad.js.map"
+      "path---posts-python-for-loop-ae564202d51a56525224.js",
+      "path---posts-python-for-loop-ae564202d51a56525224.js.map"
     ],
     "component---src-pages-about-index-js": [
       "component---src-pages-about-index-js-23f96709ded06ef6c120.js",
@@ -145,16 +145,16 @@
       "component---src-pages-about-about-jsx-a6a99503465dae1f9689.js.map"
     ],
     "path---posts-python": [
-      "path---posts-python-cb73b4e9d1a771d21d00.js",
-      "path---posts-python-cb73b4e9d1a771d21d00.js.map"
+      "path---posts-python-e8d83a52aef23f990cdf.js",
+      "path---posts-python-e8d83a52aef23f990cdf.js.map"
     ],
     "path---posts-python-requests-utf-8": [
-      "path---posts-python-requests-utf-8-45de5a085f50b4c5fb5c.js",
-      "path---posts-python-requests-utf-8-45de5a085f50b4c5fb5c.js.map"
+      "path---posts-python-requests-utf-8-3e7380ec425b9e3037d1.js",
+      "path---posts-python-requests-utf-8-3e7380ec425b9e3037d1.js.map"
     ],
     "path---index": [
-      "path---index-a3697f7d56ff29f41e3f.js",
-      "path---index-a3697f7d56ff29f41e3f.js.map"
+      "path---index-10f66a8286c6818a8010.js",
+      "path---index-10f66a8286c6818a8010.js.map"
     ],
     "path---tags-rest": [
       "path---tags-rest-5779f60422d0a7940b02.js",
@@ -181,8 +181,8 @@
       "commons-a07bddd5c4350f4b84cb.js.map"
     ],
     "path---tags-雜": [
-      "path---tags-雜-9f97bf6bfa81875cb09f.js",
-      "path---tags-雜-9f97bf6bfa81875cb09f.js.map"
+      "path---tags-雜-4657c1afcf110751b772.js",
+      "path---tags-雜-4657c1afcf110751b772.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -205,12 +205,12 @@
       "path---posts-dont-release-zalgo-d4978eee87805735d3ae.js.map"
     ],
     "path---posts-locale-linux": [
-      "path---posts-locale-linux-daaabfe77936959cb481.js",
-      "path---posts-locale-linux-daaabfe77936959cb481.js.map"
+      "path---posts-locale-linux-1453cd499831bb794cb6.js",
+      "path---posts-locale-linux-1453cd499831bb794cb6.js.map"
     ],
     "path---posts-ansi-unicode": [
-      "path---posts-ansi-unicode-99147cbc3938d74f9597.js",
-      "path---posts-ansi-unicode-99147cbc3938d74f9597.js.map"
+      "path---posts-ansi-unicode-5b09231dc1211448439a.js",
+      "path---posts-ansi-unicode-5b09231dc1211448439a.js.map"
     ],
     "component---src-pages-todo-todo-jsx": [
       "component---src-pages-todo-todo-jsx-77667cf948a089f12001.js",
@@ -229,9 +229,9 @@
       "path---posts-react-context-589f2ae1280f6220b1e6.js.map"
     ],
     "app": [
-      "app-555b45d5056914a2f720.js",
+      "app-a337f9197c1671671f54.js",
       "build-js-styles.css",
-      "app-555b45d5056914a2f720.js.map",
+      "app-a337f9197c1671671f54.js.map",
       "build-js-styles.css.map"
     ],
     "path---tags-performance-tuning": [
